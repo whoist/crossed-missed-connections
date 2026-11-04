@@ -1,0 +1,4502 @@
+[
+  {
+    "venue": 42,
+    "title": "Short-haired girl",
+    "story": "You parked your cup beside my laptop while looking around for someone, i thought you were about to sit down. Short hair, white shirt. You smiled and took it to another table",
+    "question": "",
+    "id": "demo-bb-630",
+    "alias": "CoffeeBreak630",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 178,
+    "title": "didnt even ask your name",
+    "story": "you sat across from me because the other tables were taken. gray shirt, blue backpack. we talked until your friend showed up. didnt even ask your name",
+    "question": "",
+    "id": "demo-bb-131",
+    "alias": "OnMyWay131",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 90,
+    "title": "a water break at the cafe",
+    "story": "you stopped to drink some water and smiled when i passed. green jacket, blonde ponytail i think we've seen each other here before. would you like to walk together sometime?",
+    "question": "",
+    "id": "demo-bb-65",
+    "alias": "AroundHere65",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 57,
+    "title": "your friend got there first",
+    "story": "you were waiting for a friend and smiled when i passed. gray sweater, brown glasses. i almost sat down to say hi, but someone came over to you. id like another chance",
+    "question": "",
+    "id": "demo-bb-15",
+    "alias": "OneMoreHello15",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 193,
+    "title": "talking about the last event",
+    "story": "you showed me a photo from the last event. i was going to ask about joining when your friend called you over. red cap, black hoodie. id like another conversation",
+    "question": "",
+    "id": "demo-bb-901",
+    "alias": "JustSayingHi901",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 198,
+    "title": "a thank-you at Casey's",
+    "story": "you borrowed my pen to finish a form and left a thank-you on the scrap paper underneath it, red nails, black curls. i didnt read the note until you'd gone",
+    "question": "What did the pen look like?",
+    "id": "demo-bb-441",
+    "alias": "AfterClass441",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 174,
+    "title": "your actual smile wins",
+    "story": "you asked whether we could get the photos replaced, i had no idea, but we spent a minute comparing ours. black hair, yellow sweater. i liked your smile better in person",
+    "question": "",
+    "id": "demo-bb-610",
+    "alias": "CoffeeBreak610",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 101,
+    "title": "didnt want to interrupt the call",
+    "story": "You dropped your card beside me and didnt notice, red sweatshirt and a blue lanyard. i handed it back while you were on the phone. We smiled, but couldn't really talk",
+    "question": "",
+    "id": "demo-bb-774",
+    "alias": "SmallMoment774",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 118,
+    "title": "same lecture on our pages",
+    "story": "You recognized the lecture title on my page. We talked while the machine worked, then both rushed off. Striped backpack, gray cap. I meant to ask your name.",
+    "question": "",
+    "id": "demo-bb-733",
+    "alias": "CoffeeBreak733",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 113,
+    "title": "did you want company?",
+    "story": "i walked past you twice you looked up and smiled the second time. red sweatshirt, dark curls. i wasn't sure whether you wanted company, so i didnt stop. would love to ask now",
+    "question": "",
+    "id": "demo-bb-214",
+    "alias": "AfterClass214",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 61,
+    "title": "what were you about to say?",
+    "story": "we realized we'd taken the same course with different teachers. you were about to tell me something when your friend arrived. blue cardigan, black hair. im still curious",
+    "question": "Which class was this?",
+    "id": "demo-bb-954",
+    "alias": "AfterClass954",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 11,
+    "title": "i wanted to come over",
+    "story": "i was sitting with a friend and we smiled at each other a few times. gray shirt, brown hair wanted to come over but felt awkward getting up in the middle of a story",
+    "question": "",
+    "id": "demo-bb-266",
+    "alias": "PassingBy266",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 154,
+    "title": "talking about the next meetup",
+    "story": "you were telling me about the next meetup when more people arrived, red sweatshirt, black curls. i stepped aside and never came back to finish talking. would love to hear more",
+    "question": "Which club was the table for?",
+    "id": "demo-bb-699",
+    "alias": "AroundHere699",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 186,
+    "title": "you called after me, notebook up",
+    "story": "i didnt realize id covered it up. You called after me and held it up blue shirt, silver glasses. i was relieved to see the notebook and then distracted by you",
+    "question": "",
+    "id": "demo-bb-627",
+    "alias": "OnMyWay627",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 72,
+    "title": "you could've sat here",
+    "story": "we made eye contact while you checked the tables. blue coat, short black hair there was space beside me. i wish id offered instead of waiting for you to ask",
+    "question": "",
+    "id": "demo-bb-429",
+    "alias": "OnMyWay429",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 3,
+    "title": "waiting for coffee at Caffe Vita",
+    "story": "you kept watching through the door while waiting for coffee. black bob, cream cardigan. we smiled and i was about to speak when your drink came. maybe another time?",
+    "question": "",
+    "id": "demo-bb-113",
+    "alias": "OnMyWay113",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 28,
+    "title": "you reached for your earbud",
+    "story": "we made eye contact and you reached toward your earbud. gray t-shirt, dark hair. i kept walking before realizing you might have been about to speak. i wish id paused",
+    "question": "",
+    "id": "demo-bb-26",
+    "alias": "OnMyWay26",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 189,
+    "title": "only got a second to talk",
+    "story": "You dropped your ID while putting your bag on, white shirt, black jeans, long dark hair. We talked for a second before you had to go. Wish i'd introduced myself",
+    "question": "",
+    "id": "demo-bb-831",
+    "alias": "CoffeeBreak831",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 51,
+    "title": "wish your friend had waited",
+    "story": "your friend kept saying you had to go. you were wearing a brown hoodie and looked back from the entrance. wish we'd had another minute to finish talking",
+    "question": "",
+    "id": "demo-bb-81",
+    "alias": "OnMyWay81",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 53,
+    "title": "we said hi after your run",
+    "story": "you were buying water after a run. gray shirt, blue shorts i recognized you from another day and said a quick hi. wanted to ask your name too",
+    "question": "",
+    "id": "demo-bb-142",
+    "alias": "CoffeeBreak142",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 44,
+    "title": "beside the outlet",
+    "story": "You sat beside me because of the outlet. Orange laptop sleeve, dark ponytail. we smiled at each other when both our screens lit up. wanted to ask what you were working on.",
+    "question": "",
+    "id": "demo-bb-778",
+    "alias": "OneMoreHello778",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 70,
+    "title": "we talked till your friend waved",
+    "story": "you borrowed the empty chair and mentioned your reading list. we talked until your friend waved from the door. cream cardigan, brown glasses. wanted to ask if you come here often",
+    "question": "What were you working on?",
+    "id": "demo-bb-427",
+    "alias": "SmallMoment427",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 4,
+    "title": "your striped tote",
+    "story": "you set your things down opposite me and we talked while you waited. striped tote, dark ponytail i liked how easy it was. your friend arrived before i found out your name",
+    "question": "",
+    "id": "demo-bb-247",
+    "alias": "AroundHere247",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 207,
+    "title": "the bags we moved aside",
+    "story": "we moved our bags to let someone past and started talking. striped cardigan, black glasses. i liked hearing your opinion. could we finish the conversation the event interrupted?",
+    "question": "What was the event about?",
+    "id": "demo-bb-439",
+    "alias": "OneMoreHello439",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 176,
+    "title": "Man in the navy jacket",
+    "story": "you looked back to apologize for holding me up, navy jacket, black glasses. we talked while you found another card. wanted to ask your name, not just whether it worked",
+    "question": "",
+    "id": "demo-bb-242",
+    "alias": "AfterClass242",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 221,
+    "title": "we recognized each other again",
+    "story": "you were tucked into the corner reading. we recognized each other and exchanged a quick hello. striped shirt, black hair. i wished id stayed for a proper conversation",
+    "question": "",
+    "id": "demo-bb-821",
+    "alias": "OnMyWay821",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 13,
+    "title": "the club you made less scary",
+    "story": "You made the club sound less intimidating than id expected. Navy shirt, round glasses wanted to talk more but people were waiting. Hope i get a chance to thank you in person",
+    "question": "",
+    "id": "demo-bb-777",
+    "alias": "SmallMoment777",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 145,
+    "title": "the book i had open",
+    "story": "you asked about the book i had open and we got talking curly hair, brown hoodie. i barely noticed the time. would love to share a table with you again",
+    "question": "",
+    "id": "demo-bb-111",
+    "alias": "OneMoreHello111",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 19,
+    "title": "Woman with the blue tote",
+    "story": "you were joking with the person at the counter and noticed me laughing blue tote, blonde bob. we smiled again by the exit. i wish i'd stopped to talk",
+    "question": "",
+    "id": "demo-bb-110",
+    "alias": "CoffeeBreak110",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 126,
+    "title": "card failed, we kept talking",
+    "story": "you said sorry when your payment failed blue wallet, short blonde hair. i said i had nowhere urgent to be. i would've happily stayed talking after the machine started working",
+    "question": "",
+    "id": "demo-bb-139",
+    "alias": "OneMoreHello139",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 117,
+    "title": "you smiled even in a hurry",
+    "story": "You seemed in a hurry, but still smiled when we looked at each other, red cap, blue shirt. Your order came and you were gone. i'd like a slower introduction sometime",
+    "question": "",
+    "id": "demo-bb-163",
+    "alias": "CoffeeBreak163",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 165,
+    "title": "Man in the black shirt",
+    "story": "You lifted your bag and spotted it. Black shirt, shaved head. We had a quick conversation about always losing pens. I would've liked to lose track of time instead.",
+    "question": "",
+    "id": "demo-bb-697",
+    "alias": "AfterClass697",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 97,
+    "title": "Woman in the striped cardigan",
+    "story": "you tapped my arm and handed me the notebook i'd left behind, striped cardigan, blonde curls. you asked if it was important. yes, but i also wanted to talk to you",
+    "question": "What did the notebook look like?",
+    "id": "demo-bb-575",
+    "alias": "SmallMoment575",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 132,
+    "title": "Girl in the cream sweater",
+    "story": "You asked where the print on my tote came from. Cream sweater, silver hoops. We got interrupted before I answered properly. I'm the woman carrying the books and the oversized umbrella.",
+    "question": "What did I ask you about?",
+    "id": "demo-bb-438",
+    "alias": "OneMoreHello438",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 97,
+    "title": "Girl in the blue sweater",
+    "story": "there were two free tables and we somehow chose the same one you told me i'd got there first. blue sweater, blonde ponytail. i would've been happy to share it with you",
+    "question": "",
+    "id": "demo-bb-453",
+    "alias": "AfterClass453",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 127,
+    "title": "almost caught you before leaving",
+    "story": "i was with my friend when you smiled at me, red bag, blonde bob. i nearly walked over as you were leaving. i wish i'd stopped worrying about how that would look",
+    "question": "",
+    "id": "demo-bb-57",
+    "alias": "OneMoreHello57",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 37,
+    "title": "Girl in the striped tote",
+    "story": "i recognized your face before remembering where id seen you. striped tote, black bob. you were already gone by then. were we often at neighboring study tables last semester?",
+    "question": "",
+    "id": "demo-bb-503",
+    "alias": "CoffeeBreak503",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 125,
+    "title": "joking with the cashier at Muse",
+    "story": "you clearly knew the cashier and they were giving you a hard time about something. green cap, navy jacket. i laughed and you included me in the conversation. thanks for that",
+    "question": "",
+    "id": "demo-bb-25",
+    "alias": "PassingBy25",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 186,
+    "title": "turns out, the same topic",
+    "story": "i asked about the diagram on your screen and we realized we were preparing the same topic, navy t-shirt, silver watch. you got a call before we could finish comparing ideas",
+    "question": "What was the presentation about?",
+    "id": "demo-bb-702",
+    "alias": "OneMoreHello702",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 75,
+    "title": "Blue glasses",
+    "story": "i'm fairly sure we've been here at the same time before, you gave me a small nod and i nodded back. Blue glasses, black curls. i wish i'd stopped for a minute",
+    "question": "",
+    "id": "demo-bb-282",
+    "alias": "PassingBy282",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 29,
+    "title": "you slowed down, i kept going",
+    "story": "we seem to cross paths here sometimes you smiled and slowed down this time. short red hair, navy coat. i didnt realize until i'd passed that you might have wanted to talk",
+    "question": "",
+    "id": "demo-bb-254",
+    "alias": "AroundHere254",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 209,
+    "title": "in the campus line",
+    "story": "You said you were studying nursing while we waited in line, red hoodie, dark ponytail. Your friends arrived and you went with them. i'm the guy who'd just switched majors",
+    "question": "What were we talking about while we waited?",
+    "id": "demo-bb-995",
+    "alias": "OneMoreHello995",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 48,
+    "title": "two cups, one held door",
+    "story": "You held the door while I struggled with two cups. Red sweatshirt, curly dark hair. I said thanks without properly looking up. Then I did, and wished I hadn't been in such a hurry.",
+    "question": "",
+    "id": "demo-bb-69",
+    "alias": "OneMoreHello69",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 149,
+    "title": "leaving Royal Ground",
+    "story": "you grinned when we made eye contact on my way out. black bob, striped top. i walked past with a stupid smile and wished id said something",
+    "question": "",
+    "id": "demo-bb-238",
+    "alias": "AfterClass238",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 33,
+    "title": "Guy in the gray sweater",
+    "story": "you held it against your chest as we passed near the entrance. gray sweater, brown hair. we smiled, then you went upstairs. shouldve said hi before you did",
+    "question": "",
+    "id": "demo-bb-417",
+    "alias": "OneMoreHello417",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 81,
+    "title": "finally saw you again",
+    "story": "i remember seeing you last semester, we looked at each other when you came out of the building. gray sweater, long braid. shouldve stopped to introduce myself",
+    "question": "",
+    "id": "demo-bb-425",
+    "alias": "JustSayingHi425",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 226,
+    "title": "across the study aisle",
+    "story": "We sat opposite each other across the aisle. You looked over a couple of times and smiled when you left. Gray T-shirt, dark beard. shouldve said hi before then.",
+    "question": "",
+    "id": "demo-bb-927",
+    "alias": "JustSayingHi927",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 219,
+    "title": "you smiled like you remembered",
+    "story": "i thought you remembered me when you smiled as i came in black hoodie and a canvas bag on the floor. we sat near each other last time too. was i right?",
+    "question": "",
+    "id": "demo-bb-958",
+    "alias": "AfterClass958",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 8,
+    "title": "nice catch, by the way",
+    "story": "It slid off the table and you caught it before it hit the floor. Gray T-shirt, blue watch we laughed, and i spent the next few minutes wishing id kept talking",
+    "question": "",
+    "id": "demo-bb-949",
+    "alias": "OnMyWay949",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 212,
+    "title": "Curly-haired girl",
+    "story": "you asked to borrow my charger but it didnt fit your phone. we talked anyway dark curls, red sweatshirt. im not much help with charging, but would love to be better at introductions",
+    "question": "",
+    "id": "demo-bb-807",
+    "alias": "CoffeeBreak807",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 216,
+    "title": "the other table at Shibam",
+    "story": "You were heading toward the table I had just picked. You smiled and sat at the other empty one. Short black bob, gray cardigan. I almost asked if you wanted company.",
+    "question": "",
+    "id": "demo-bb-551",
+    "alias": "AfterClass551",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 158,
+    "title": "Woman in the green jacket",
+    "story": "You were already halfway down the path when I shouted. You jogged back, out of breath, and thanked me. Short blonde hair, green jacket. wanted to say more than no problem.",
+    "question": "What did the card holder look like?",
+    "id": "demo-bb-537",
+    "alias": "SmallMoment537",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 151,
+    "title": "directions, then a missed name",
+    "story": "You showed me where you wanted to go and we talked while I explained. Dark curls, red jacket. I think you said your name, but I didnt catch it. would love to ask again.",
+    "question": "Where were you trying to go?",
+    "id": "demo-bb-315",
+    "alias": "AroundHere315",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 159,
+    "title": "slow line, good conversation",
+    "story": "We chatted while the line barely moved. You had a green cap and said you were studying business i left with my friends without asking your name. if you remember the girl with the red folder, hi",
+    "question": "What were we talking about while we waited?",
+    "id": "demo-bb-701",
+    "alias": "AfterClass701",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 72,
+    "title": "Woman I kept looking at",
+    "story": "you showed me the title of your talk and we laughed bc mine was nearly identical red folder, dark ponytail. wanted to compare notes after you packed up",
+    "question": "What was the presentation about?",
+    "id": "demo-bb-586",
+    "alias": "CoffeeBreak586",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 214,
+    "title": "i voted for the second opening",
+    "story": "we talked about the presentation topic, then you asked which opening made more sense. i liked the second one. green cardigan, glasses. i would like to hear how it went",
+    "question": "",
+    "id": "demo-bb-851",
+    "alias": "SmallMoment851",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 188,
+    "title": "Girl with dark curls",
+    "story": "we've studied near each other a few times. last time you smiled while packing your red notebook away. dark curls, navy sweater. would love to talk when you're taking a break",
+    "question": "",
+    "id": "demo-bb-433",
+    "alias": "PassingBy433",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 145,
+    "title": "by the entrance at Chestnut",
+    "story": "your scarf came off your bag as you left. i handed it back near the entrance. red tote, short dark hair. you had a lovely smile. wish we'd talked",
+    "question": "What did you drop?",
+    "id": "demo-bb-42",
+    "alias": "AfterClass42",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 160,
+    "title": "Man in the brown jacket",
+    "story": "You plugged in across the table and said it was exactly what you needed. Brown jacket, short beard i thought you were going to say something else when you packed up",
+    "question": "",
+    "id": "demo-bb-450",
+    "alias": "AroundHere450",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 182,
+    "title": "one name exchanged: mine",
+    "story": "you sat beside me until someone waved from the entrance we'd exchanged a few stories but only one name: mine. denim overshirt, dark curls. i didnt want you to leave yet",
+    "question": "",
+    "id": "demo-bb-466",
+    "alias": "JustSayingHi466",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 71,
+    "title": "more than thank you next time?",
+    "story": "You asked whether you could plug in beside me. I moved my bag and you sat down. Red sweatshirt, dark curls. We worked quietly, but wanted to hear more than your thank you.",
+    "question": "",
+    "id": "demo-bb-595",
+    "alias": "OnMyWay595",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 176,
+    "title": "Girl with the short blonde hair",
+    "story": "we only talked because you needed a charger. mine was at home short blonde hair, striped shirt. shouldve asked your name while apologizing for being no help",
+    "question": "",
+    "id": "demo-bb-297",
+    "alias": "SmallMoment297",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 169,
+    "title": "two empty tables, same choice",
+    "story": "we both reached the same table although the next one was free too. you laughed and let me have it red sweatshirt, dark curls. shouldve offered to share",
+    "question": "",
+    "id": "demo-bb-963",
+    "alias": "CoffeeBreak963",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 5,
+    "title": "Girl with the red backpack",
+    "story": "you looked at me while your friends debated where to eat. red backpack, long braid. i was standing beside the door pretending to look for something in my bag",
+    "question": "",
+    "id": "demo-bb-541",
+    "alias": "OnMyWay541",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 197,
+    "title": "Gray T-shirt",
+    "story": "You got stuck holding the door while a whole group walked through, i was the last one and said you could finally leave. Gray T-shirt, dark curls. You had a lovely smile",
+    "question": "",
+    "id": "demo-bb-642",
+    "alias": "AfterClass642",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 195,
+    "title": "running back into La Colombe",
+    "story": "your friends were already outside when i noticed your bag under the table, you ran back for it, laughing at yourself. green backpack, black curls. would love to talk when you're not leaving",
+    "question": "",
+    "id": "demo-bb-789",
+    "alias": "AroundHere789",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 80,
+    "title": "going in as you came out",
+    "story": "we recognized each other at the entrance and smiled blue beanie, black glasses. you were leaving while i was going in. would love to sit down together instead sometime",
+    "question": "",
+    "id": "demo-bb-62",
+    "alias": "PassingBy62",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 45,
+    "title": "Woman in the striped shirt",
+    "story": "we talked about the instructor after you noticed my notes, you laughed at the same thing that had confused me in class. striped shirt, short curls. would love to see you again",
+    "question": "Which class was this?",
+    "id": "demo-bb-409",
+    "alias": "CoffeeBreak409",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 92,
+    "title": "you asked my name first",
+    "story": "you asked about my name while sitting beside me green sweater, long braid. your friend arrived before i asked yours. you prob remember me better than i managed to explain",
+    "question": "",
+    "id": "demo-bb-981",
+    "alias": "PassingBy981",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 109,
+    "title": "biology class and a free chair",
+    "story": "you asked if the chair beside me was taken we talked about your biology class while you waited for a friend. dark curls, red sweatshirt. would love to talk again",
+    "question": "What were you working on?",
+    "id": "demo-bb-591",
+    "alias": "OnMyWay591",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 155,
+    "title": "the look back after class",
+    "story": "we left class at the same time. you slowed down and looked back, then hurried after your friends. blue hoodie, brown curls. i would've liked to walk with you",
+    "question": "",
+    "id": "demo-bb-767",
+    "alias": "OneMoreHello767",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 103,
+    "title": "you only needed one chapter",
+    "story": "You offered me the book because you only needed a chapter, green cardigan, dark ponytail. We talked about the course for a minute. wanted to suggest studying together",
+    "question": "Which book were we looking for?",
+    "id": "demo-bb-613",
+    "alias": "CoffeeBreak613",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 191,
+    "title": "Girl studying nursing",
+    "story": "we walked out together and you mentioned nursing. red jacket, black curls. i asked about your placement, then we went different ways. i forgot the more obvious question: your name",
+    "question": "",
+    "id": "demo-bb-563",
+    "alias": "JustSayingHi563",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 58,
+    "title": "i think you said Anna",
+    "story": "We talked while our drinks were being made, i heard your name as Anna, but i'm not sure. Red sweater, dark curls. i was the guy who ordered tea. would love to ask properly",
+    "question": "",
+    "id": "demo-bb-554",
+    "alias": "CoffeeBreak554",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 202,
+    "title": "one table behind me at Oasis",
+    "story": "you almost set your coffee on the notebook before noticing it. we smiled, then you moved to the table behind me. brown jacket, short beard. i kept thinking i should turn around",
+    "question": "",
+    "id": "demo-bb-498",
+    "alias": "CoffeeBreak498",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 2,
+    "title": "the yellow tote i noticed",
+    "story": "you were alone, looking around rather than at your phone yellow tote, long braid. we made eye contact and i hesitated. if you remember the guy in blue, hello",
+    "question": "",
+    "id": "demo-bb-307",
+    "alias": "JustSayingHi307",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 47,
+    "title": "the words came too late",
+    "story": "you sat next to me for a while and we exchanged a few smiles. green bag, black bob. wanted to say something as you left, but the words came too late",
+    "question": "",
+    "id": "demo-bb-5",
+    "alias": "AroundHere5",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 205,
+    "title": "Curly-haired girl",
+    "story": "You were working across from me again, copper curls tied back. We both looked up when someone dropped a cup that was my chance to say something and i missed it",
+    "question": "",
+    "id": "demo-bb-485",
+    "alias": "AroundHere485",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 26,
+    "title": "Girl in the red jacket",
+    "story": "we waited beside each other and exchanged a couple of smiles. red jacket, dark curls when boarding started we went different ways. wanted to say hello before that happened",
+    "question": "",
+    "id": "demo-bb-7",
+    "alias": "PassingBy7",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 95,
+    "title": "we recognized each other",
+    "story": "you had a black sweater and short red hair, i recognized you from last time and we nodded at each other. would love to know what you've been reading",
+    "question": "",
+    "id": "demo-bb-419",
+    "alias": "OneMoreHello419",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 64,
+    "title": "Girl in the red jacket",
+    "story": "i stopped so i wouldn't walk through your picture, you lowered the camera and smiled at me. Dark curls, red jacket. shouldve asked what you were photographing",
+    "question": "",
+    "id": "demo-bb-74",
+    "alias": "PassingBy74",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 229,
+    "title": "thanks, my hands were full",
+    "story": "you held the door when you saw my hands were full, blue beanie, dark coat. we chatted outside for a few steps, then you crossed the street. never got your name",
+    "question": "",
+    "id": "demo-bb-497",
+    "alias": "OneMoreHello497",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 225,
+    "title": "Woman I kept looking at",
+    "story": "You waved before leaving, and i was slow to realize it was at me. Purple bottle, short black hair wanted to ask how your work was going",
+    "question": "",
+    "id": "demo-bb-946",
+    "alias": "JustSayingHi946",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 44,
+    "title": "charging up at Coffee Traders",
+    "story": "you borrowed my cable while we sat near each other, gray t-shirt, short hair. you smiled when the battery finally went up. shouldve started a conversation before you packed up",
+    "question": "",
+    "id": "demo-bb-930",
+    "alias": "CoffeeBreak930",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 178,
+    "title": "someone stepped between us",
+    "story": "i noticed you just as i was leaving, blue jacket, brown curls. We smiled, then someone stepped between us. wanted to come back but talked myself out of it",
+    "question": "",
+    "id": "demo-bb-363",
+    "alias": "OnMyWay363",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 166,
+    "title": "one minute at Alibi",
+    "story": "you tried my laptop cable but it didnt fit your phone, red scarf, silver glasses. we talked for a minute about changing phones and then you had to leave. never got your name",
+    "question": "",
+    "id": "demo-bb-637",
+    "alias": "AfterClass637",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 163,
+    "title": "Woman with the red scarf",
+    "story": "You asked whether it actually kept coffee warm, we started talking while you waited for someone. Red scarf, short hair. wish we'd swapped names before they arrived",
+    "question": "What did I ask you about?",
+    "id": "demo-bb-735",
+    "alias": "AroundHere735",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 222,
+    "title": "Man in the navy hoodie",
+    "story": "you set your coffee down and started sitting before noticing me. navy hoodie, glasses we both laughed. shouldve said you were welcome to join me anyway",
+    "question": "",
+    "id": "demo-bb-887",
+    "alias": "OneMoreHello887",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 220,
+    "title": "Girl in the red sweatshirt",
+    "story": "we sat together until your friend arrived, you asked my name and i never asked yours. red sweatshirt, shoulder-length curls. i noticed that mistake about ten seconds after you left",
+    "question": "",
+    "id": "demo-bb-813",
+    "alias": "AfterClass813",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 142,
+    "title": "Woman with the yellow scarf",
+    "story": "i've seen you here before. you smiled while you waited for your order. yellow scarf, black bob. i nearly asked if you wanted to sit down, but you took your drink and left",
+    "question": "",
+    "id": "demo-bb-953",
+    "alias": "PassingBy953",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 148,
+    "title": "i wasnt bothered by the wait",
+    "story": "your card wouldn't go through and you apologized to me for the wait. red sweater, dark curls. i wasnt bothered. i was enjoying the little conversation we were having",
+    "question": "",
+    "id": "demo-bb-59",
+    "alias": "CoffeeBreak59",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 215,
+    "title": "Girl in the red hoodie",
+    "story": "i left my notebook on the table and you caught me at the door red hoodie, dark curls. i said thanks too quickly. i was flustered, not trying to be unfriendly",
+    "question": "What did the notebook look like?",
+    "id": "demo-bb-451",
+    "alias": "OneMoreHello451",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 83,
+    "title": "still had another question",
+    "story": "you told me which engineering course you were taking as we walked out. gray shirt, brown backpack. i was still thinking of another question when you said goodbye",
+    "question": "",
+    "id": "demo-bb-690",
+    "alias": "OnMyWay690",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 68,
+    "title": "we tried, at least",
+    "story": "you leaned over to ask about the question on my page, we tried two different answers and gave up. gray t-shirt, glasses. i was enjoying the conversation anyway",
+    "question": "",
+    "id": "demo-bb-546",
+    "alias": "AfterClass546",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 76,
+    "title": "could that have been something?",
+    "story": "We only looked at each other for a second. Green scarf, blonde hair you smiled and i did too. would love to find out whether that could've become a conversation",
+    "question": "",
+    "id": "demo-bb-109",
+    "alias": "JustSayingHi109",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 157,
+    "title": "next time i'll stop",
+    "story": "We've passed each other here before. This time you smiled first green tote, shoulder-length curls. i kept walking because i was late, but would love to say hello properly",
+    "question": "",
+    "id": "demo-bb-342",
+    "alias": "SmallMoment342",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 77,
+    "title": "Girl with the red scarf",
+    "story": "i was still on the same call when you walked past again. red scarf, long braid. we smiled the second time. when i finally hung up i couldnt see you anymore",
+    "question": "",
+    "id": "demo-bb-127",
+    "alias": "OneMoreHello127",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 30,
+    "title": "before the talk at Bobst",
+    "story": "We talked while waiting for the speaker. Red sweater, dark curls. You asked what brought me there. When the talk finished I couldn't see you in the crowd. would love to hear your thoughts.",
+    "question": "What was the event about?",
+    "id": "demo-bb-779",
+    "alias": "SmallMoment779",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 60,
+    "title": "wrong cable, right conversation",
+    "story": "you came over and asked nicely, sorry mine was the wrong type. white hoodie, dark curls. you stayed to talk about what i was reading, and i didnt want that part to end",
+    "question": "",
+    "id": "demo-bb-709",
+    "alias": "JustSayingHi709",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 225,
+    "title": "Short red hair",
+    "story": "we got into the elevator with our arms full of books you joked about needing a bag. short red hair, gray cardigan. i wished the ride had lasted a bit longer",
+    "question": "Which floor were you looking for?",
+    "id": "demo-bb-694",
+    "alias": "AroundHere694",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 213,
+    "title": "no charge, just conversation",
+    "story": "you hoped my charger would work for you. it didnt, and we ended up talking instead green case, navy sweater. i wish id asked whether you wanted to sit down",
+    "question": "",
+    "id": "demo-bb-478",
+    "alias": "AroundHere478",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 46,
+    "title": "Brown hoodie",
+    "story": "you were talking to the cashier when i joined the line. we laughed together, then made eye contact again on the way out brown hoodie, dark curls. id like another conversation",
+    "question": "",
+    "id": "demo-bb-286",
+    "alias": "CoffeeBreak286",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 17,
+    "title": "Girl with the red hoodie",
+    "story": "We looked at each other as I was leaving and I think you smiled. Red hoodie, dark curls. wanted to stop but wasn't sure. If it was meant for me, hi.",
+    "question": "",
+    "id": "demo-bb-135",
+    "alias": "OnMyWay135",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 74,
+    "title": "couldn't make out your name",
+    "story": "i heard someone call your name but couldn't make it out, you were wearing a green cardigan and carrying two books. we smiled while you waited for them to catch up",
+    "question": "",
+    "id": "demo-bb-278",
+    "alias": "JustSayingHi278",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 0,
+    "title": "what were you going to say?",
+    "story": "We passed in the doorway and you turned as though to say something. Red coat, blonde hair. I turned too late. would love to know what it was.",
+    "question": "",
+    "id": "demo-bb-85",
+    "alias": "JustSayingHi85",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 51,
+    "title": "we both turned around",
+    "story": "we passed outside and both turned around. dark curls, red sweatshirt. i almost stopped but kept walking. if you remember the guy in the blue jacket, would love to say hello",
+    "question": "",
+    "id": "demo-bb-97",
+    "alias": "OnMyWay97",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 146,
+    "title": "almost asked you to wait",
+    "story": "We looked at each other while I stood outside on the phone. Green backpack, brown curls. I nearly gestured for you to wait, then felt awkward. shouldve tried.",
+    "question": "",
+    "id": "demo-bb-374",
+    "alias": "JustSayingHi374",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 54,
+    "title": "another try at those directions?",
+    "story": "i tried to explain the route but got two street names mixed up blue scarf, brown bob. you were very patient. i'd like a second chance at that conversation",
+    "question": "",
+    "id": "demo-bb-197",
+    "alias": "CoffeeBreak197",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 30,
+    "title": "sorry, i didnt catch that",
+    "story": "we spoke on the way out and i wasnt certain i heard you correctly. red sweater, silver hoops. shouldve asked instead of nodding. id like another chance to talk",
+    "question": "",
+    "id": "demo-bb-979",
+    "alias": "OnMyWay979",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 170,
+    "title": "you asked right as they arrived",
+    "story": "We talked while you waited for someone, you asked my name right before they arrived. Blue backpack, brown curls. shouldve stopped you long enough to ask yours too",
+    "question": "",
+    "id": "demo-bb-549",
+    "alias": "SmallMoment549",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 98,
+    "title": "rehearsing at Overflow",
+    "story": "i could hear you practicing the introduction to your presentation. we realized we had the same assignment you were in a blue shirt. i never asked if you wanted to practice together",
+    "question": "",
+    "id": "demo-bb-935",
+    "alias": "PassingBy935",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 25,
+    "title": "Blue shirt",
+    "story": "you wanted to know what was in the case. we only had a moment before your friend arrived. blue shirt, dark glasses. id love to hear about the instrument you said you used to play",
+    "question": "",
+    "id": "demo-bb-858",
+    "alias": "PassingBy858",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 131,
+    "title": "heading out of Civil Goat",
+    "story": "i pointed to your blue tote as you were heading out with friends, you mouthed thank you across the room. Brown curls, striped shirt. wish we'd been close enough to actually talk",
+    "question": "",
+    "id": "demo-bb-435",
+    "alias": "OnMyWay435",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 170,
+    "title": "sheltering from the rain",
+    "story": "you asked if i thot it would stop soon. it didnt, but the conversation was nice. navy hoodie, blonde braid. you finally pulled your hood up and left before i asked your name",
+    "question": "",
+    "id": "demo-bb-871",
+    "alias": "JustSayingHi871",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 35,
+    "title": "Guy with the gray shirt",
+    "story": "We compared what we'd read about the topic before it started, gray shirt, silver glasses. i turned to ask what you thought at the end, but your seat was already empty",
+    "question": "",
+    "id": "demo-bb-607",
+    "alias": "OneMoreHello607",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 165,
+    "title": "glad you asked for that seat",
+    "story": "you needed a seat and i had a bag where a person should've been, we smiled as i moved it. blue cardigan, black bob. i'm glad you asked, and wish i'd talked more",
+    "question": "",
+    "id": "demo-bb-678",
+    "alias": "OneMoreHello678",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 65,
+    "title": "Guy in gray with the board",
+    "story": "you were holding your skateboard while we made eye contact gray shirt, black backpack. you smiled, then carried on walking. i wish i'd asked you to stop for a minute",
+    "question": "",
+    "id": "demo-bb-35",
+    "alias": "CoffeeBreak35",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 208,
+    "title": "hope you made it to class",
+    "story": "i picked up your id near the entrance you had a yellow card holder and a gray sweatshirt. you were late for class, so this seemed better than stopping you for longer",
+    "question": "",
+    "id": "demo-bb-758",
+    "alias": "AfterClass758",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 19,
+    "title": "we laughed at the card reader",
+    "story": "We laughed when the card reader eventually beeped. Striped sweater, brown ponytail. You gave me a little wave as you left. I was still trying to think of something to say.",
+    "question": "",
+    "id": "demo-bb-339",
+    "alias": "SmallMoment339",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 196,
+    "title": "you put your phone away",
+    "story": "you put your phone away when you noticed me looking over, we smiled, then you checked the time and left. blue shirt, rolled sleeves. i was at the table with the red bag",
+    "question": "",
+    "id": "demo-bb-715",
+    "alias": "AroundHere715",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 99,
+    "title": "reading near your campus group",
+    "story": "i was nearby reading while your group talked. Gray T-shirt, dark hair you smiled when you got up to leave. i would've put the book away for a conversation",
+    "question": "",
+    "id": "demo-bb-209",
+    "alias": "SmallMoment209",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 108,
+    "title": "Man in the navy shirt",
+    "story": "i explained my answer and you found the step where i'd gone wrong, we were still figuring it out when your phone rang. Navy shirt, silver glasses. would love to see you again",
+    "question": "",
+    "id": "demo-bb-473",
+    "alias": "OnMyWay473",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 40,
+    "title": "the last pastry at Bower",
+    "story": "you offered me the last pastry when you heard me ask about it. long braid, green sweatshirt. i wish id asked your name instead of just worrying id taken your breakfast",
+    "question": "",
+    "id": "demo-bb-695",
+    "alias": "AroundHere695",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 50,
+    "title": "directions turned into a chat",
+    "story": "you asked me which way to go, we had a nice little conversation while i checked the street. green case, blonde hair. shouldve introduced myself before you left",
+    "question": "Where were you trying to go?",
+    "id": "demo-bb-218",
+    "alias": "JustSayingHi218",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 201,
+    "title": "Girl with the pink phone case",
+    "story": "you asked my name while we waited for your friend. pink case, blonde ponytail. we were just getting comfortable talking when they arrived. would love to talk again",
+    "question": "",
+    "id": "demo-bb-749",
+    "alias": "JustSayingHi749",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 169,
+    "title": "Woman in the green sweater",
+    "story": "you borrowed a pen, then left a note saying you'd managed to finish in time, green sweater, straight brown hair. i would've liked to ask what you were working on",
+    "question": "What did the pen look like?",
+    "id": "demo-bb-602",
+    "alias": "AfterClass602",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 110,
+    "title": "a quiet moment at Jaho",
+    "story": "youd just taken your headphones off when we looked at each other. green headphones, black bob. wanted to say hi but hesitated. id like another chance",
+    "question": "",
+    "id": "demo-bb-865",
+    "alias": "OnMyWay865",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 2,
+    "title": "no charger, but you stayed",
+    "story": "You came over while i was packing up, i didnt have the cable you needed. Black hoodie, glasses. You asked what i was working on before you left. i liked that",
+    "question": "",
+    "id": "demo-bb-191",
+    "alias": "OneMoreHello191",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 175,
+    "title": "we both looked back on campus",
+    "story": "i think we used to study in the same area red backpack, dark curls. we passed on campus and both looked back. do you remember the guy with the green notebook?",
+    "question": "",
+    "id": "demo-bb-570",
+    "alias": "JustSayingHi570",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 114,
+    "title": "my call took too long",
+    "story": "We made eye contact while i was on the phone. Red sweatshirt, black curls i smiled and tried to finish the call. You were gone by the time i did",
+    "question": "",
+    "id": "demo-bb-1",
+    "alias": "SmallMoment1",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 129,
+    "title": "that moment at Desnudo",
+    "story": "That sticker caught my eye, then you did. Navy hoodie, round glasses. You noticed me looking and smiled. I lost my nerve instead of asking about it.",
+    "question": "",
+    "id": "demo-bb-515",
+    "alias": "OnMyWay515",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 115,
+    "title": "a quick chat after your run",
+    "story": "You looked relieved to stop after your run. Red shoes, navy T-shirt we talked for a moment while you opened the bottle. i wished i had a reason to stay",
+    "question": "",
+    "id": "demo-bb-245",
+    "alias": "OnMyWay245",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 33,
+    "title": "Guy from the evening study room",
+    "story": "we made eye contact on campus and i recognized you from last semester. gray hoodie, black glasses. i wasnt sure if you recognized me, so i didnt stop",
+    "question": "",
+    "id": "demo-bb-939",
+    "alias": "CoffeeBreak939",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 39,
+    "title": "Woman in the purple glasses",
+    "story": "we compared our majors on the way out purple glasses, short dark hair. you said yours wasn't what you'd first planned. i would've liked to hear that story",
+    "question": "",
+    "id": "demo-bb-886",
+    "alias": "SmallMoment886",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 156,
+    "title": "Woman with the braid",
+    "story": "You were sitting on the grass with friends. We made eye contact while you folded the blanket green blanket, blonde braid. i nearly came over to introduce myself",
+    "question": "",
+    "id": "demo-bb-327",
+    "alias": "OneMoreHello327",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 102,
+    "title": "Woman in the blue coat",
+    "story": "You looked familiar when we passed. I think we sat near each other last semester. Blue coat, short blonde hair. wanted to ask but worried I had the wrong person.",
+    "question": "",
+    "id": "demo-bb-867",
+    "alias": "AfterClass867",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 50,
+    "title": "you smiled as i left",
+    "story": "you were beside a friend when we looked at each other short red hair, white shirt. you smiled just as i went through the door. i wanted an excuse to come back",
+    "question": "",
+    "id": "demo-bb-13",
+    "alias": "PassingBy13",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 100,
+    "title": "did you notice me hesitate?",
+    "story": "i paused while you took your photo. you smiled over the screen and said thanks. red cap, short curls. i wonder if you noticed me hesitate before walking on",
+    "question": "",
+    "id": "demo-bb-199",
+    "alias": "OneMoreHello199",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 29,
+    "title": "Man in blue",
+    "story": "your group was packing up when we looked at each other blue shirt, brown curls. you gave me a small wave and i waved back. shouldve said something as well",
+    "question": "",
+    "id": "demo-bb-143",
+    "alias": "OneMoreHello143",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 224,
+    "title": "you returned my pen with thanks",
+    "story": "i was away from the table when you returned my pen, you left a note so i'd know it was there. Short hair, red cardigan. i noticed too late to thank you in person",
+    "question": "",
+    "id": "demo-bb-885",
+    "alias": "AroundHere885",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 212,
+    "title": "we both hesitated walking past",
+    "story": "we both hesitated as we passed on campus. red cap, dark curls. i think i recognize you from the study area. if you remember the woman with the blue bag, hi",
+    "question": "",
+    "id": "demo-bb-647",
+    "alias": "OneMoreHello647",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 179,
+    "title": "same moment, both looking back",
+    "story": "You turned back just when i did and we smiled. Green scarf, short hair i was carrying a white tote. i kept walking and immediately regretted it",
+    "question": "",
+    "id": "demo-bb-154",
+    "alias": "PassingBy154",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 82,
+    "title": "comparing our terrible ID photos",
+    "story": "we got our cards out at the same time and you joked about the photos your curls were hidden under a cap in yours. we never got past comparing pictures to exchanging names",
+    "question": "",
+    "id": "demo-bb-619",
+    "alias": "PassingBy619",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 60,
+    "title": "you returned my charger neatly",
+    "story": "i lent you my charger and you brought it back wrapped tidier than it had been, navy shirt, brown curls. i almost asked if you had time to sit for a minute",
+    "question": "",
+    "id": "demo-bb-869",
+    "alias": "OneMoreHello869",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 160,
+    "title": "one smile before you left",
+    "story": "You turned around and we made eye contact twice, green coat, short blonde hair. When your cup arrived you gave me one last smile. i wish i'd started talking sooner",
+    "question": "",
+    "id": "demo-bb-223",
+    "alias": "JustSayingHi223",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 179,
+    "title": "Guy with brown curls",
+    "story": "i heard them hit the ground and called after you brown curls, gray hoodie. you came back looking relieved. i would've liked to ask your name instead of only handing them over",
+    "question": "",
+    "id": "demo-bb-174",
+    "alias": "CoffeeBreak174",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 77,
+    "title": "you weren't even close lol",
+    "story": "You asked the time, then laughed at how wrong your guess was. Navy jacket, dark glasses wanted to keep talking but you had somewhere to be",
+    "question": "",
+    "id": "demo-bb-133",
+    "alias": "OneMoreHello133",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 94,
+    "title": "almost said hi every time",
+    "story": "you sat where my bag had been. we both looked up whenever someone came through the door. yellow laptop cover, blonde ponytail. i almost introduced myself each time our eyes met",
+    "question": "",
+    "id": "demo-bb-945",
+    "alias": "OnMyWay945",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 23,
+    "title": "you were waiting, i hesitated",
+    "story": "You were looking around, then we made eye contact a couple of times, red coat, dark curls. wanted to ask if you'd like company while waiting. Your friend arrived before i did",
+    "question": "",
+    "id": "demo-bb-137",
+    "alias": "SmallMoment137",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 41,
+    "title": "Girl in the striped sweater",
+    "story": "we tried to work out the answer together and eventually asked someone else, striped sweater, short hair. i liked sitting beside you more than i liked that assignment",
+    "question": "Which subject were we working on?",
+    "id": "demo-bb-970",
+    "alias": "OneMoreHello970",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 175,
+    "title": "your club answer got interrupted",
+    "story": "You answered my questions and asked which course i was taking, gray T-shirt, blue lanyard. Someone else needed your help before i answered. i'm still interested in the club, and in talking to you",
+    "question": "",
+    "id": "demo-bb-782",
+    "alias": "PassingBy782",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 145,
+    "title": "at my table, briefly",
+    "story": "You asked at my table and i searched my bag without any luck. Blue case, green sweater you were patient while i looked. i wish id had a reason for you to stay",
+    "question": "",
+    "id": "demo-bb-157",
+    "alias": "JustSayingHi157",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 193,
+    "title": "study together sometime?",
+    "story": "we talked by the printer because you needed monday's notes. gray shirt, dark curls. i let you photograph the pages but forgot to ask whether you wanted to study together",
+    "question": "",
+    "id": "demo-bb-601",
+    "alias": "SmallMoment601",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 204,
+    "title": "more than just no problem",
+    "story": "your phone was almost dead and i had the right cable, you brought it back on your way to class. red sweatshirt, dark curls. wanted to say more than no problem",
+    "question": "What were you charging?",
+    "id": "demo-bb-826",
+    "alias": "SmallMoment826",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 150,
+    "title": "i didnt stop, you smiled",
+    "story": "we smiled at each other while you were waiting, blue sweater, long dark braid. i was the guy carrying the paper bag. i didnt know whether to stop, and now wish i had",
+    "question": "",
+    "id": "demo-bb-146",
+    "alias": "PassingBy146",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 211,
+    "title": "we were both late for breakfast",
+    "story": "you let me take the last cheese pastry, we chatted about coming too late for breakfast. gray coat, dark curls. shouldve suggested trying an earlier coffee together",
+    "question": "",
+    "id": "demo-bb-799",
+    "alias": "OneMoreHello799",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 153,
+    "title": "hi, if you're not rushing now",
+    "story": "you kept glancing toward the entrance while you waited for your drink. red sweater, dark curls we made eye contact, then you picked up your cup and hurried out. wanted to say hi",
+    "question": "",
+    "id": "demo-bb-27",
+    "alias": "PassingBy27",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 20,
+    "title": "Guy with the gray T-shirt",
+    "story": "you stood next to me while we waited gray shirt, brown curls, small overnight bag. you looked over as it was time to board. wish we'd talked instead of just smiling",
+    "question": "",
+    "id": "demo-bb-225",
+    "alias": "SmallMoment225",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 172,
+    "title": "Red glasses and a long wait",
+    "story": "you had to wait while your meal card was checked. we talked about a lecture we'd both attended red glasses, black sweatshirt. i didnt see you after the line started moving",
+    "question": "",
+    "id": "demo-bb-747",
+    "alias": "AroundHere747",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 119,
+    "title": "our conversation ended at lunch",
+    "story": "We waited for someone to help with your card. You asked whether I was new here too. Yellow lanyard, blue sweater. We got our food and somehow never continued talking.",
+    "question": "",
+    "id": "demo-bb-982",
+    "alias": "PassingBy982",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 173,
+    "title": "white headphones, held the door",
+    "story": "You saw me hurrying over and held the door. We went to the same study floor. Black coat, white headphones. I was still catching my breath when I thanked you.",
+    "question": "",
+    "id": "demo-bb-922",
+    "alias": "OnMyWay922",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 219,
+    "title": "your friend called you away",
+    "story": "Your friend shouted something from outside and you both left. We had just started talking about the line. Tall, round glasses, navy jacket. I was the woman behind you.",
+    "question": "",
+    "id": "demo-bb-215",
+    "alias": "OneMoreHello215",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 114,
+    "title": "Guy in the gray T-shirt",
+    "story": "you asked the time and looked relieved when i told you. gray t-shirt, green backpack. you stayed to talk briefly, then left. would love to pick up where we stopped",
+    "question": "",
+    "id": "demo-bb-19",
+    "alias": "AfterClass19",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 200,
+    "title": "passing at No Goodbyes again",
+    "story": "you had your helmet under your arm again. we smiled when we passed each other brown hair, black jacket. i know i recognize you from here, but still dont know your name",
+    "question": "",
+    "id": "demo-bb-310",
+    "alias": "SmallMoment310",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 115,
+    "title": "no cable, but we talked",
+    "story": "sorry i couldnt lend you a cable. we spoke briefly before you went to ask someone else. gray t-shirt, brown hair. i hope you found one. would love to see you again",
+    "question": "",
+    "id": "demo-bb-95",
+    "alias": "PassingBy95",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 86,
+    "title": "passing with your friend",
+    "story": "Your friend was telling a story while you walked past. You looked over your shoulder at me twice green coat, short blonde hair. i nearly caught up to say hi",
+    "question": "",
+    "id": "demo-bb-965",
+    "alias": "PassingBy965",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 112,
+    "title": "Curly-haired girl",
+    "story": "your friend called from the door just as you turned toward me. you had dark curls and a red tote. i was holding the chair out of your way. did you want to say something too?",
+    "question": "",
+    "id": "demo-bb-309",
+    "alias": "PassingBy309",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 73,
+    "title": "Curly-haired girl",
+    "story": "You looked over as i walked past, white headphones, red sweatshirt. i didnt want to interrupt your music, but when i looked back you were still looking my way",
+    "question": "",
+    "id": "demo-bb-714",
+    "alias": "OnMyWay714",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 143,
+    "title": "we both stopped for a second",
+    "story": "you looked familiar when we passed and we both hesitated short copper hair, dark green coat. i think you sat near me last time. can we introduce ourselves properly?",
+    "question": "",
+    "id": "demo-bb-123",
+    "alias": "SmallMoment123",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 70,
+    "title": "which patch was your favorite?",
+    "story": "You forgot the canvas bag with all the little patches, i caught you by the entrance. You showed me which patch was your favorite while thanking me. wanted to ask more",
+    "question": "",
+    "id": "demo-bb-579",
+    "alias": "JustSayingHi579",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 84,
+    "title": "Woman with the green badge",
+    "story": "We talked by the club table until a group squeezed between us. Green badge, short brown hair i didnt catch your name. i was the woman asking about beginner sessions",
+    "question": "Which club was the table for?",
+    "id": "demo-bb-553",
+    "alias": "CoffeeBreak553",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 95,
+    "title": "you recognized the gym logo",
+    "story": "you noticed the logo and asked if i trained there too. gray t-shirt, short beard your friend came over before we got further than that. id have liked to talk more",
+    "question": "",
+    "id": "demo-bb-623",
+    "alias": "AroundHere623",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 209,
+    "title": "our printouts got mixed up",
+    "story": "our pages got mixed together. you sorted yours out and brought mine over with a smile. purple folder, short blonde hair. i was rushing then, but would love to talk again",
+    "question": "Which class were the notes for?",
+    "id": "demo-bb-519",
+    "alias": "CoffeeBreak519",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 96,
+    "title": "Red tote left on the chair",
+    "story": "youd taken your coat but left the red tote. i handed it over at the door. you had short brown hair and a blue sweater. we smiled longer than the handover needed",
+    "question": "",
+    "id": "demo-bb-998",
+    "alias": "AroundHere998",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 81,
+    "title": "you left with a thumbs-up",
+    "story": "you turned back and gave me a thumbs-up before taking your tray. blue shirt, brown curls. we had been chatting while you waited. wanted to ask where you were sitting",
+    "question": "",
+    "id": "demo-bb-615",
+    "alias": "AroundHere615",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 205,
+    "title": "unsolved question, good company",
+    "story": "You asked what I got for the last question. Neither of us could solve it, but we talked for ages. Red notebook, black curls. I'd be happy to have another unproductive study session.",
+    "question": "Which subject were we working on?",
+    "id": "demo-bb-719",
+    "alias": "OneMoreHello719",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 118,
+    "title": "our paths split mid-conversation",
+    "story": "i asked about the book you were carrying as we walked out. we talked about your course until the path split. black hoodie, green bag. i never even introduced myself",
+    "question": "",
+    "id": "demo-bb-405",
+    "alias": "AfterClass405",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 177,
+    "title": "Girl with the red sweater",
+    "story": "i laughed too, standing behind you. red sweater, dark curls you looked back and smiled. we passed each other again outside and i still didnt introduce myself",
+    "question": "",
+    "id": "demo-bb-361",
+    "alias": "AroundHere361",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 24,
+    "title": "Guy with the denim jacket",
+    "story": "you kept the door open for me, then we walked the same way outside. denim jacket, white sneakers there was enough time to say hi and somehow i didnt",
+    "question": "",
+    "id": "demo-bb-279",
+    "alias": "PassingBy279",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 67,
+    "title": "Girl with the pink laptop sleeve",
+    "story": "we recognized each other from the reading area when the elevator opened. pink sleeve under your arm, black curls. you gave me a quick smile. im the girl with the denim jacket",
+    "question": "Which floor were you looking for?",
+    "id": "demo-bb-598",
+    "alias": "AroundHere598",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 66,
+    "title": "Blonde girl",
+    "story": "you recognized me from another study session and gave me a little nod. red headphones, white cardigan. wanted to say hello before putting mine back on",
+    "question": "",
+    "id": "demo-bb-806",
+    "alias": "JustSayingHi806",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 192,
+    "title": "Girl in the red sweater",
+    "story": "we were standing beside each other in the elevator you smiled when i pressed the floor you wanted too. red sweater, short curls. neither of us said anything after that",
+    "question": "Which floor were you looking for?",
+    "id": "demo-bb-483",
+    "alias": "AroundHere483",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 35,
+    "title": "we got separated by the crowd",
+    "story": "we were both looking at the club table you asked which one i was thinking of joining. yellow notebook, blonde curls. the crowd separated us before i asked you back",
+    "question": "Which club was the table for?",
+    "id": "demo-bb-461",
+    "alias": "OnMyWay461",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 147,
+    "title": "your coat went on, i froze",
+    "story": "you were alone near the window and looked over as you put your coat on. brown hoodie, dark curls. i smiled back but didnt speak. i wish id asked you to stay a minute",
+    "question": "",
+    "id": "demo-bb-179",
+    "alias": "AfterClass179",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 124,
+    "title": "your name, next time?",
+    "story": "We've studied near each other a few times, and you said that as you left, gray cardigan, black glasses. would love to know your name before we say it again",
+    "question": "",
+    "id": "demo-bb-525",
+    "alias": "PassingBy525",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 79,
+    "title": "Man with the navy jacket",
+    "story": "you asked politely if i was waiting for anyone. i wasnt. we chatted until your friend came over. navy jacket, black glasses. i wish id asked whether youd like to meet again",
+    "question": "",
+    "id": "demo-bb-338",
+    "alias": "AroundHere338",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 217,
+    "title": "only caught half your name",
+    "story": "i heard the first part of your name and then the barista called an order. you were in a green jacket we were talking about moving here. wanted to hear the rest",
+    "question": "",
+    "id": "demo-bb-746",
+    "alias": "CoffeeBreak746",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 28,
+    "title": "Woman with the book",
+    "story": "You read between bites and looked up when i sat nearby, green cardigan, short hair. We smiled as you packed up. would love to ask about the book if you remember me",
+    "question": "",
+    "id": "demo-bb-667",
+    "alias": "AroundHere667",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 121,
+    "title": "when you got up to leave",
+    "story": "We recognized each other and exchanged a smile, green coat, blonde braid. i was going to talk when i finished my message, but you got up. shouldve put my phone away",
+    "question": "",
+    "id": "demo-bb-155",
+    "alias": "PassingBy155",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 140,
+    "title": "wish i'd taken my headphones off",
+    "story": "i moved my bag so you could work across from me, black hoodie, dark curls. You mouthed goodbye when you left because i had headphones on. i wish i'd taken them off sooner",
+    "question": "",
+    "id": "demo-bb-626",
+    "alias": "OnMyWay626",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 134,
+    "title": "Blonde girl with the dead phone",
+    "story": "you looked relieved when my cable fitted. we talked while the screen came back on blonde ponytail, black jacket. your friend rang immediately and i lost my chance to introduce myself",
+    "question": "What were you charging?",
+    "id": "demo-bb-622",
+    "alias": "PassingBy622",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 124,
+    "title": "before the talk started",
+    "story": "you asked if i'd been to one of these talks before, i hadn't. we chatted until it started. curly hair, navy sweater. wish we'd introduced ourselves before everyone left",
+    "question": "",
+    "id": "demo-bb-897",
+    "alias": "JustSayingHi897",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 87,
+    "title": "two conversations at Southside",
+    "story": "we kept making eye contact, but i couldn't find a way to leave my conversation green sweater, dark curls. you left before i managed it. would love to meet you",
+    "question": "",
+    "id": "demo-bb-119",
+    "alias": "OnMyWay119",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 6,
+    "title": "the wrong street, sorry",
+    "story": "You showed me the address on your phone. i pointed you one street too far green case, long braid. Sorry about that. if you remember the woman in red, would love to apologize properly",
+    "question": "",
+    "id": "demo-bb-55",
+    "alias": "OneMoreHello55",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 36,
+    "title": "i misheard your major twice",
+    "story": "i misheard your major twice and you laughed. you were in a cream sweatshirt with your hair clipped up. your friends took you away before i managed a better question",
+    "question": "What were we talking about while we waited?",
+    "id": "demo-bb-418",
+    "alias": "JustSayingHi418",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 185,
+    "title": "Man in green",
+    "story": "i recognized the trail logo on your laptop and nearly asked about it, green shirt, brown curls. you looked up and smiled before i looked away. did you notice me hesitate?",
+    "question": "",
+    "id": "demo-bb-550",
+    "alias": "PassingBy550",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 49,
+    "title": "can we finish talking?",
+    "story": "You only sat beside me for a few minutes before a phone call took you away. Black hoodie, dark curls we were talking about moving here. im the woman with the canvas bag",
+    "question": "",
+    "id": "demo-bb-103",
+    "alias": "JustSayingHi103",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 132,
+    "title": "packing up at Bennu",
+    "story": "You asked about my cable while i was packing up, it didnt fit, but we chatted about your dead battery. Green jacket, glasses. i wished i wasn't leaving",
+    "question": "",
+    "id": "demo-bb-578",
+    "alias": "AroundHere578",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 121,
+    "title": "this time you had flowers",
+    "story": "I've seen you here before, but this time you had flowers in your hand. Blue jacket, black curls. We smiled as we passed. would love to find out your name.",
+    "question": "",
+    "id": "demo-bb-50",
+    "alias": "PassingBy50",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 167,
+    "title": "your green laptop sleeve",
+    "story": "we ended up opposite each other twice this week. you have shoulder-length curls and a green laptop sleeve. you smiled when you recognized me. can we say more than hi next time?",
+    "question": "",
+    "id": "demo-bb-565",
+    "alias": "CoffeeBreak565",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 34,
+    "title": "we nodded, then went quiet",
+    "story": "i recognized you as you sat down nearby. gray hoodie, brown hair you nodded, then we both went quiet. would love to make the next hello a proper conversation",
+    "question": "",
+    "id": "demo-bb-305",
+    "alias": "JustSayingHi305",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 139,
+    "title": "your ID had a different haircut",
+    "story": "We both had our cards out and you pointed out how different your hair used to be, green hoodie, short curls now. You went inside before i thought to introduce myself",
+    "question": "",
+    "id": "demo-bb-847",
+    "alias": "OneMoreHello847",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 117,
+    "title": "hope my directions didnt hurt",
+    "story": "you asked for directions while we were leaving i only noticed my mistake afterward. navy jacket, glasses. i hope you weren't late. wanted to talk longer even before realizing i'd misdirected you",
+    "question": "",
+    "id": "demo-bb-171",
+    "alias": "AfterClass171",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 40,
+    "title": "ten minutes, coffee, your name",
+    "story": "You had a white shirt with the sleeves rolled up and said you only had ten minutes. We talked while waiting for coffee i forgot your name, not the conversation",
+    "question": "",
+    "id": "demo-bb-906",
+    "alias": "SmallMoment906",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 52,
+    "title": "no charger, still a thank you",
+    "story": "you asked if i had a charger, and i didnt. red sweatshirt, dark curls. you smiled and thanked me anyway. wanted to help, but mostly wanted to keep talking",
+    "question": "",
+    "id": "demo-bb-54",
+    "alias": "SmallMoment54",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 7,
+    "title": "was i interrupting?",
+    "story": "We made eye contact while your friend checked their phone, green bag, blonde ponytail. wanted to come over but wasn't sure if i'd be interrupting",
+    "question": "",
+    "id": "demo-bb-359",
+    "alias": "AroundHere359",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 194,
+    "title": "by the door on campus",
+    "story": "you counted your pages, noticed mine, and caught me by the door, green sweater, long braid. i only said thanks, but wanted to ask about the class you mentioned",
+    "question": "Which class were the notes for?",
+    "id": "demo-bb-657",
+    "alias": "AroundHere657",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 209,
+    "title": "Blue hoodie",
+    "story": "You asked if the page on top was from our course. It was, and we spent a few minutes comparing what we'd written. Blue hoodie, short beard. I'd like another conversation.",
+    "question": "",
+    "id": "demo-bb-814",
+    "alias": "AfterClass814",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 140,
+    "title": "wanted to hear more",
+    "story": "You sat beside me before meeting a friend and told me about studying alongside work, blue shirt, silver-rimmed glasses. i was impressed but only managed a quick goodbye",
+    "question": "",
+    "id": "demo-bb-786",
+    "alias": "AroundHere786",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 49,
+    "title": "your order came too soon",
+    "story": "we were beside each other waiting for our orders. gray t-shirt, black watch. you kept checking the door. wanted to talk, but you left as soon as your drink was ready",
+    "question": "",
+    "id": "demo-bb-295",
+    "alias": "AfterClass295",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 161,
+    "title": "Man in the blue shirt",
+    "story": "You looked up and smiled when i came past your corner table, i'd seen you there before. Blue shirt, brown glasses. i didnt want to interrupt, but wanted to say hi",
+    "question": "",
+    "id": "demo-bb-899",
+    "alias": "JustSayingHi899",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 220,
+    "title": "Man with the orange keychain",
+    "story": "Your bag was tucked under the empty chair, i stopped you before you got outside. Orange keychain, green shirt. You thanked me and asked if i came here often. i didnt ask you back",
+    "question": "",
+    "id": "demo-bb-754",
+    "alias": "CoffeeBreak754",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 137,
+    "title": "the study-area face i remember",
+    "story": "we used to work in the same study area, i think. you smiled as we passed on campus. brown curls, green sweatshirt. would love to say more than hello this time",
+    "question": "",
+    "id": "demo-bb-790",
+    "alias": "PassingBy790",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 105,
+    "title": "we talked before the speaker",
+    "story": "You sat next to me and we talked before the speaker arrived. Blue notebook, brown bob. wanted to ask whether you agreed with the last point, but lost you afterward.",
+    "question": "What was the event about?",
+    "id": "demo-bb-635",
+    "alias": "PassingBy635",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 18,
+    "title": "which book did you go with?",
+    "story": "We were browsing the same section, you put one book back and chose another, then looked over at me. Green sweater, dark curls. wanted to ask which one you'd decided on",
+    "question": "Which book were you looking at?",
+    "id": "demo-bb-177",
+    "alias": "CoffeeBreak177",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 27,
+    "title": "Girl in the white shirt",
+    "story": "you used my name when you said goodbye. i realized i didnt know yours. white shirt, black bob. we had been talking about your new job before your friend came",
+    "question": "",
+    "id": "demo-bb-853",
+    "alias": "OnMyWay853",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 149,
+    "title": "a short chat at Royal Ground",
+    "story": "You asked if the seat was free and sat down to wait, we talked until your phone rang. Dark curls, red hoodie. You mouthed sorry before leaving. i wish you'd had longer",
+    "question": "",
+    "id": "demo-bb-354",
+    "alias": "OnMyWay354",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 47,
+    "title": "Man in green",
+    "story": "you were sitting by yourself and i was looking for someone green sweater, gray hair. we smiled at each other twice. i'd have liked the excuse to stop at your seat",
+    "question": "",
+    "id": "demo-bb-51",
+    "alias": "OnMyWay51",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 101,
+    "title": "an entire elevator ride, no hi",
+    "story": "i've noticed you studying on the same floor. we finally stood next to each other in the elevator, and i couldnt think of anything to say. yellow bottle, navy sweatshirt",
+    "question": "",
+    "id": "demo-bb-973",
+    "alias": "OnMyWay973",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 177,
+    "title": "Man with the navy jacket",
+    "story": "your friend was talking, but you kept looking my way navy jacket, glasses. i smiled back. i wish i'd said something before heading out",
+    "question": "",
+    "id": "demo-bb-290",
+    "alias": "AroundHere290",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 82,
+    "title": "my page got into your pile",
+    "story": "my page was among your printouts. you brought it back while trying not to drop everything else navy jacket, brown curls. i liked our brief conversation about where you were going",
+    "question": "",
+    "id": "demo-bb-481",
+    "alias": "SmallMoment481",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 5,
+    "title": "Woman with the purple notebook",
+    "story": "you were explaining why you changed courses when the line started moving purple notebook against your chest, denim jacket. i was genuinely interested and wanted to keep listening",
+    "question": "",
+    "id": "demo-bb-577",
+    "alias": "JustSayingHi577",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 13,
+    "title": "you held the elevator for me",
+    "story": "I've seen you at the study tables, then we shared the elevator. Gray hoodie, round glasses. You held it open when I was still coming down the hall. Thank you, and hi.",
+    "question": "",
+    "id": "demo-bb-495",
+    "alias": "OnMyWay495",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 38,
+    "title": "turns out, the same floor",
+    "story": "you were standing by the elevator buttons and asked my floor you were getting off there too. green shirt, brown hair. it wasn't much of a conversation but i wanted another one",
+    "question": "",
+    "id": "demo-bb-751",
+    "alias": "SmallMoment751",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 109,
+    "title": "Woman with the green folder",
+    "story": "you were trying to find the notes from the class you missed. i had them. green folder, short blonde hair. wanted to ask if you had time for coffee after comparing them",
+    "question": "",
+    "id": "demo-bb-493",
+    "alias": "AfterClass493",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 1,
+    "title": "reading in Bryant Park",
+    "story": "i've seen you reading here before. you looked up and smiled as i passed this time. dark curls, green sweater. i didnt want to interrupt your book, but would love to say hi during a break",
+    "question": "",
+    "id": "demo-bb-393",
+    "alias": "AfterClass393",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 228,
+    "title": "shouldve asked to join you",
+    "story": "You tried your meal card again while we talked about the menu, green hoodie, shaved head. When it worked, you grabbed your tray and went. i wish i'd asked to join you",
+    "question": "",
+    "id": "demo-bb-454",
+    "alias": "AfterClass454",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 159,
+    "title": "Guy in the blue T-shirt",
+    "story": "You listened while i complained about a class, then told me about yours. Blue T-shirt, dark hair we reached the exit too quickly. i remember the conversation better than your major",
+    "question": "",
+    "id": "demo-bb-505",
+    "alias": "OneMoreHello505",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 210,
+    "title": "your ID photo wasn't that bad",
+    "story": "you noticed my awful student card photo and showed me yours. red lanyard, denim jacket you said yours was worse. i disagree, and id like a chance to tell you",
+    "question": "",
+    "id": "demo-bb-863",
+    "alias": "CoffeeBreak863",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 10,
+    "title": "it was you making me smile",
+    "story": "It wasnt the conversation making me smile. Gray hoodie, black glasses you walked past and looked back while i was on a call. wanted to finish and come say hello",
+    "question": "",
+    "id": "demo-bb-261",
+    "alias": "JustSayingHi261",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 141,
+    "title": "Black glasses",
+    "story": "you asked if you could charge your phone near my seat, we checked the screen together when it finally switched on. black glasses, gray cardigan. wish we'd kept talking afterward",
+    "question": "",
+    "id": "demo-bb-947",
+    "alias": "PassingBy947",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 34,
+    "title": "i was the one in blue",
+    "story": "we passed each other and both looked back. dark curls, red sweatshirt, board under your arm i nearly stopped to say hi. if you noticed the guy in blue, that was me",
+    "question": "",
+    "id": "demo-bb-82",
+    "alias": "PassingBy82",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 224,
+    "title": "we laughed without talking",
+    "story": "i turned mine slightly so you could see and you laughed, short dark hair, striped shirt. we never actually spoke. would love to change that",
+    "question": "",
+    "id": "demo-bb-449",
+    "alias": "SmallMoment449",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 146,
+    "title": "smiling over my friend's story",
+    "story": "we exchanged a couple of smiles while my friend was talking. blue jacket, dark curls. i was the woman in the cream sweater. wanted to say hi before you left",
+    "question": "",
+    "id": "demo-bb-311",
+    "alias": "SmallMoment311",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 6,
+    "title": "Woman with the green jacket",
+    "story": "you lost a glove while taking your phone out. i caught up to return it. green jacket, blonde braid. wanted to say more when you smiled at me",
+    "question": "What did you drop?",
+    "id": "demo-bb-323",
+    "alias": "AroundHere323",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 14,
+    "title": "catch you on a rest day?",
+    "story": "you stopped for water, still catching your breath. red running top, dark curls tied back we smiled and i almost asked about your route. would love to catch you on a rest day",
+    "question": "",
+    "id": "demo-bb-306",
+    "alias": "CoffeeBreak306",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 187,
+    "title": "we trusted the forecast",
+    "story": "neither of us had a jacket, we waited by the door and complained about trusting the forecast. gray t-shirt, black backpack. i nearly asked where you were headed",
+    "question": "",
+    "id": "demo-bb-645",
+    "alias": "PassingBy645",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 89,
+    "title": "we looked back together",
+    "story": "we made eye contact as we passed, then looked back at the same time gray shirt, black watch. i wish one of us had stopped. maybe this reaches you",
+    "question": "",
+    "id": "demo-bb-186",
+    "alias": "JustSayingHi186",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 188,
+    "title": "Guy in gray",
+    "story": "you waited by the door for your friends. we made eye contact before you followed them outside gray t-shirt, dark hair. im the girl who stayed behind to pack up",
+    "question": "",
+    "id": "demo-bb-490",
+    "alias": "OneMoreHello490",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 216,
+    "title": "comparing instructors with you",
+    "story": "You noticed my course notes and asked which section i was in. Red sweatshirt, curly hair your friend arrived before we finished comparing instructors. Want to finish that conversation?",
+    "question": "Which class was this?",
+    "id": "demo-bb-703",
+    "alias": "OneMoreHello703",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 61,
+    "title": "Girl in the red hoodie",
+    "story": "You were eating alone at the next table. We made eye contact when you stood up with your tray. Red hoodie, dark curls. was still eating and completely blanked.",
+    "question": "",
+    "id": "demo-bb-487",
+    "alias": "SmallMoment487",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 168,
+    "title": "leaving Bluestone Lane",
+    "story": "you held up my notebook as i was putting my coat on, red sweater, dark hair. i laughed and thanked you. would love to see you again without needing to forget something first",
+    "question": "",
+    "id": "demo-bb-526",
+    "alias": "CoffeeBreak526",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 172,
+    "title": "both with too much to read",
+    "story": "You picked up my reading list with your notes and came back a minute later. Black cap, gray coat we laughed about both having too much to read. Want to compare progress?",
+    "question": "",
+    "id": "demo-bb-810",
+    "alias": "OneMoreHello810",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 122,
+    "title": "talking till it was your turn",
+    "story": "we talked about your architecture project until it was your turn. you had black curls and a rolled-up drawing under your arm would love to hear how the project turned out",
+    "question": "",
+    "id": "demo-bb-666",
+    "alias": "OneMoreHello666",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 138,
+    "title": "tell me about your project?",
+    "story": "We needed the same book, you said you weren't in a hurry and left it with me. Purple glasses, short hair. wanted to ask about your project, not just the book",
+    "question": "Which book were we looking for?",
+    "id": "demo-bb-753",
+    "alias": "JustSayingHi753",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 132,
+    "title": "opposite me at Bennu",
+    "story": "You looked at the occupied table, then sat opposite me. Brown cardigan, short dark hair we recognized each other from last time but neither of us said much. would love to change that",
+    "question": "",
+    "id": "demo-bb-722",
+    "alias": "JustSayingHi722",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 104,
+    "title": "remembering our first semester",
+    "story": "our id photos were both from our first semester you were in a blue sweater and said it felt much longer ago. wanted to ask how things had changed for you",
+    "question": "",
+    "id": "demo-bb-693",
+    "alias": "AroundHere693",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 195,
+    "title": "Woman with the yellow notebook",
+    "story": "we both stopped beside the same empty table and looked at each other. you smiled and took the one nearby yellow notebook, glasses. i spent too long wondering whether to join you",
+    "question": "",
+    "id": "demo-bb-795",
+    "alias": "AroundHere795",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 31,
+    "title": "i had time to wait",
+    "story": "your meal card kept failing and you apologized to everyone behind you. i said i had time. gray t-shirt, glasses. i would've liked to sit with you once it finally worked",
+    "question": "",
+    "id": "demo-bb-538",
+    "alias": "JustSayingHi538",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 184,
+    "title": "the outlet at Coffee Crossing",
+    "story": "i was looking around with my charger when you pointed beside your chair navy hoodie, brown curls. thanks for making space. shouldve used the chance to say hello",
+    "question": "",
+    "id": "demo-bb-769",
+    "alias": "CoffeeBreak769",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 68,
+    "title": "the chair between our bags",
+    "story": "we both reached for our bags when the chair between us became free. you laughed and told me to leave mine blue bottle, black curls. i remember you from earlier this week",
+    "question": "",
+    "id": "demo-bb-629",
+    "alias": "OnMyWay629",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 227,
+    "title": "Guy in the red cap",
+    "story": "you charged your phone at my table and thanked me again at the door, red cap, gray hoodie. i was trying to find an excuse to keep you there a little longer",
+    "question": "",
+    "id": "demo-bb-446",
+    "alias": "PassingBy446",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 213,
+    "title": "same table, more talking?",
+    "story": "i wasnt, just spreading my things out. red sweater, brown hair. you sat down and we studied together quietly. would love to share a table with you again, with a bit more talking",
+    "question": "",
+    "id": "demo-bb-430",
+    "alias": "AfterClass430",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 78,
+    "title": "found the pen, missed the names",
+    "story": "I picked it up before you noticed it was gone. Navy sweater, black glasses. You thanked me and asked if I'd seen the pen too. We found it, but never exchanged names.",
+    "question": "",
+    "id": "demo-bb-73",
+    "alias": "OnMyWay73",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 199,
+    "title": "there was room for you",
+    "story": "You asked if there was room and helped me shift a book before sitting. Brown jacket, silver glasses. We didnt say much afterward. wanted to ask what you were studying.",
+    "question": "",
+    "id": "demo-bb-911",
+    "alias": "SmallMoment911",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 141,
+    "title": "the homework we couldn't solve",
+    "story": "you asked about my homework and stayed to help, we got stuck anyway. black curls, gray sweater. would love to talk about something other than the question we couldn't solve",
+    "question": "",
+    "id": "demo-bb-877",
+    "alias": "JustSayingHi877",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 43,
+    "title": "Guy in the gray shirt",
+    "story": "you slid my pen back across the table with a little thanks written beside it. gray shirt, dark glasses. i smiled at the note after you left and wished id introduced myself",
+    "question": "",
+    "id": "demo-bb-521",
+    "alias": "AroundHere521",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 137,
+    "title": "by the campus printer",
+    "story": "we were printing the same class notes and you showed me a diagram id left out. black hair clipped back, yellow sweater. thanks again. would love to thank you over coffee",
+    "question": "Which class were the notes from?",
+    "id": "demo-bb-529",
+    "alias": "OnMyWay529",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 212,
+    "title": "the pen i never noticed dropping",
+    "story": "you tapped my shoulder to return the pen i didnt know id dropped. gray shirt, red hair i took a second to notice you. wish id used that second better",
+    "question": "What did the pen look like?",
+    "id": "demo-bb-638",
+    "alias": "SmallMoment638",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 14,
+    "title": "a goodbye before any hello",
+    "story": "we were sitting close enough to talk, but only managed a couple of smiles, silver clip, brown sweater. you said a quiet bye when you left. i wanted the conversation before that goodbye",
+    "question": "",
+    "id": "demo-bb-138",
+    "alias": "CoffeeBreak138",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 143,
+    "title": "Guy in the gray T-shirt",
+    "story": "you were about to sit down when your friend called you back, gray t-shirt, black watch. you looked over once more before leaving. shouldve waved instead of staring at my cup",
+    "question": "",
+    "id": "demo-bb-2",
+    "alias": "JustSayingHi2",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 42,
+    "title": "the cable didn't fit, you stayed",
+    "story": "we tried my cable and realized it was the wrong one. gray t-shirt, black watch. you stayed talking for a few minutes before asking someone else. shouldve asked your name",
+    "question": "",
+    "id": "demo-bb-861",
+    "alias": "AfterClass861",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 38,
+    "title": "Woman in the navy coat",
+    "story": "You'd missed the class and asked about a page i was copying, i showed you the rest. Navy coat, blonde braid. We never got beyond the class, but i would've liked to",
+    "question": "Which class were the notes from?",
+    "id": "demo-bb-661",
+    "alias": "PassingBy661",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 73,
+    "title": "we got interrupted mid-question",
+    "story": "i showed you the pages from class and you asked a couple of questions. Gray sweatshirt, black glasses we got interrupted before i asked your name. would love to pick up the conversation",
+    "question": "",
+    "id": "demo-bb-866",
+    "alias": "JustSayingHi866",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 123,
+    "title": "your ID slipped out",
+    "story": "your card slipped out of your notebook. you turned around when i tapped your shoulder messy brown hair, navy sweater. i was the girl carrying a coffee and far too many papers",
+    "question": "What did the card holder look like?",
+    "id": "demo-bb-986",
+    "alias": "SmallMoment986",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 147,
+    "title": "we smiled and kept walking",
+    "story": "you looked back as i turned around. red cap, gray hoodie. we both smiled and then kept going. im the woman in green who wishes she hadn't",
+    "question": "",
+    "id": "demo-bb-291",
+    "alias": "AfterClass291",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 192,
+    "title": "in line on campus",
+    "story": "We compared our schedules in line, you had two small hoop earrings and a black T-shirt. i know which days you're in class but never got your name",
+    "question": "",
+    "id": "demo-bb-781",
+    "alias": "SmallMoment781",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 63,
+    "title": "you found it before i noticed",
+    "story": "I hadn't even noticed it was missing. You came over with it and we talked about the assignment. Blue T-shirt, red backpack. You left before I got your name.",
+    "question": "",
+    "id": "demo-bb-545",
+    "alias": "AroundHere545",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 55,
+    "title": "what were you thinking about?",
+    "story": "you sat alone looking out at the street between sips navy sweater, round glasses. we made eye contact when you stood up. wanted to know what you'd been thinking about",
+    "question": "",
+    "id": "demo-bb-371",
+    "alias": "AfterClass371",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 44,
+    "title": "Man in the navy shirt",
+    "story": "you recognized me and waved when i walked in. navy shirt, brown glasses. i waved back and sat too far away to talk. shouldve just asked to join you",
+    "question": "",
+    "id": "demo-bb-413",
+    "alias": "AfterClass413",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 224,
+    "title": "we picked the same table",
+    "story": "we nearly put our books on the same table, you laughed and moved yours next door. brown jacket, round glasses. i was still thinking of a way to talk when you left",
+    "question": "",
+    "id": "demo-bb-479",
+    "alias": "OnMyWay479",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 169,
+    "title": "your first big presentation",
+    "story": "you said you hadn't presented in front of that many people before. we talked about the topic for a bit short red hair, cream sweater. i hope it went well. would love to hear about it",
+    "question": "",
+    "id": "demo-bb-827",
+    "alias": "AfterClass827",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 47,
+    "title": "Guy in gray leaving",
+    "story": "i've seen you here before. We paused face to face at the door and laughed gray T-shirt, green cup. wanted to ask if you had a minute",
+    "question": "",
+    "id": "demo-bb-122",
+    "alias": "OneMoreHello122",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 133,
+    "title": "Curly-haired girl sheltering",
+    "story": "We stood under the entrance waiting for the rain to ease. Red coat, dark curls. We talked until you decided to make a run for it. I'd have liked another few minutes.",
+    "question": "",
+    "id": "demo-bb-721",
+    "alias": "OnMyWay721",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 164,
+    "title": "Girl in the red cap",
+    "story": "we started talking after you asked about the chair, you said your class had just been cancelled. red cap, black hair. your friend came for you before i asked whether you wanted coffee",
+    "question": "What were you working on?",
+    "id": "demo-bb-918",
+    "alias": "CoffeeBreak918",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 96,
+    "title": "Guy with the striped sweater",
+    "story": "You asked for the slice I'd just bought, then laughed and said it was fine. Striped sweater, curly hair. I offered to give it back, but what I meant to ask was whether you'd join me.",
+    "question": "",
+    "id": "demo-bb-539",
+    "alias": "JustSayingHi539",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 162,
+    "title": "Girl with the silver hoops",
+    "story": "you asked politely, then apologized again when you returned it, no need. silver hoops, short black hair. i was glad you gave me a reason to talk to you",
+    "question": "What were you charging?",
+    "id": "demo-bb-741",
+    "alias": "AroundHere741",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 16,
+    "title": "thanks for finding me",
+    "story": "you found it on the empty table and came looking for me short dark hair, cream sweater. we smiled when you recognized me. shouldve stayed another minute",
+    "question": "What did the notebook look like?",
+    "id": "demo-bb-822",
+    "alias": "PassingBy822",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 9,
+    "title": "you had to rush off",
+    "story": "we sat next to each other until you got a call and started packing up. blue shirt, short black hair. you said sorry to rush. would love to talk when you have time",
+    "question": "",
+    "id": "demo-bb-58",
+    "alias": "CoffeeBreak58",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 168,
+    "title": "first your phone, then your bag",
+    "story": "First you came back for your phone, then i noticed your bag. We laughed when you returned again you were wearing a red jacket. shouldve taken the second chance to ask your name",
+    "question": "",
+    "id": "demo-bb-510",
+    "alias": "OnMyWay510",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 59,
+    "title": "you let me have the outlet",
+    "story": "We were both after the table by the outlet. You let me take it and sat opposite the aisle i could've offered you the other socket. Black curls, green hoodie",
+    "question": "",
+    "id": "demo-bb-895",
+    "alias": "PassingBy895",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 32,
+    "title": "with your ID on campus",
+    "story": "Your student card fell out when you pulled your phone from your pocket, i called after you. Curly hair, black jacket. You came back smiling, but was too shy to keep talking",
+    "question": "What did the card holder look like?",
+    "id": "demo-bb-407",
+    "alias": "OneMoreHello407",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 164,
+    "title": "you spotted what i missed",
+    "story": "you looked at my notes and pointed out the bit i was missing, green hoodie, brown curls. wanted to ask for help without making it sound like i only wanted your notes",
+    "question": "",
+    "id": "demo-bb-674",
+    "alias": "AfterClass674",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 9,
+    "title": "Guy in the gray T-shirt",
+    "story": "You looked away from the window and caught me looking at you. Gray shirt, black hair we smiled, then you packed up. id have liked to say hello properly",
+    "question": "",
+    "id": "demo-bb-63",
+    "alias": "AfterClass63",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 48,
+    "title": "last week at La Colombe too?",
+    "story": "i think we crossed paths here last week, you looked at me as if you remembered too. red scarf, brown curls. wanted to ask whether we'd spoken before",
+    "question": "",
+    "id": "demo-bb-145",
+    "alias": "AroundHere145",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 0,
+    "title": "do we know each other?",
+    "story": "i think we've been here at the same time before dark curls, red cardigan. you smiled when i joined the line. would love to ask your name instead of wondering if we know each other",
+    "question": "",
+    "id": "demo-bb-299",
+    "alias": "AfterClass299",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 208,
+    "title": "complaining about the reading",
+    "story": "you asked whether i was also taking that course we complained about the reading for a minute. red glasses, dark hair. i didnt catch your name before you left",
+    "question": "Which class was this?",
+    "id": "demo-bb-599",
+    "alias": "PassingBy599",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 43,
+    "title": "you needed the lecture notes",
+    "story": "youd missed a lecture and asked whether i had the notes. red notebook, dark curls. we talked about the course while you looked through them. would love to study together sometime",
+    "question": "",
+    "id": "demo-bb-443",
+    "alias": "OnMyWay443",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 4,
+    "title": "you looked at the empty chair",
+    "story": "you looked at the empty chair beside me, then moved on gray t-shirt, green laptop sleeve. shouldve said it was free. maybe we could share a table next time",
+    "question": "",
+    "id": "demo-bb-190",
+    "alias": "SmallMoment190",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 214,
+    "title": "we were both sitting alone",
+    "story": "i was alone too, a couple of tables away. we made eye contact as you were putting your coat on navy sweatshirt, blonde braid. it felt like a moment to introduce myself and i missed it",
+    "question": "",
+    "id": "demo-bb-837",
+    "alias": "SmallMoment837",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 151,
+    "title": "you smiled like you knew me",
+    "story": "we made eye contact when you stopped for water. blue headband, black curls. you smiled as if you recognized me. would love to ask whether you did",
+    "question": "",
+    "id": "demo-bb-169",
+    "alias": "OnMyWay169",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 183,
+    "title": "stuck on homework at Wallflower",
+    "story": "You asked whether i'd understood the question, i hadn't. We compared our attempts until you had to go. Green hoodie, brown curls. never got your name",
+    "question": "",
+    "id": "demo-bb-646",
+    "alias": "CoffeeBreak646",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 163,
+    "title": "Girl with the blue notebook",
+    "story": "you caught me looking at the ghost on your laptop and grinned. blue notebook, black bob. wanted to ask about it without interrupting your work. would love to talk sometime",
+    "question": "",
+    "id": "demo-bb-718",
+    "alias": "OnMyWay718",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 136,
+    "title": "thanks for leaving that note",
+    "story": "you asked for a pen because yours had run out, you left mine with a note when you finished. green folder, brown hair. i'd like another chance to say hello",
+    "question": "What did the pen look like?",
+    "id": "demo-bb-942",
+    "alias": "JustSayingHi942",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 58,
+    "title": "moved my bag, missed my chance",
+    "story": "you asked to sit and i moved my bag off the chair. we worked across from each other for a while dark curls, red sweatshirt. i kept thinking of something to say, then you left",
+    "question": "",
+    "id": "demo-bb-757",
+    "alias": "SmallMoment757",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 62,
+    "title": "Pink hair",
+    "story": "you showed me your student card bc your hair was brown in the picture it's pink now. we chatted at the entrance, then headed opposite ways. i didnt get your name",
+    "question": "",
+    "id": "demo-bb-406",
+    "alias": "OneMoreHello406",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 174,
+    "title": "you let me take the book",
+    "story": "we found one copy on the shelf and you offered it to me. red cap, navy jacket. i was too focused on my deadline to ask your name. wish id",
+    "question": "",
+    "id": "demo-bb-534",
+    "alias": "OnMyWay534",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 173,
+    "title": "we talked before the event",
+    "story": "You told me youd nearly missed the beginning. We talked about how youd found the event red scarf, blonde hair. wanted to finish that conversation when it ended",
+    "question": "What was the event about?",
+    "id": "demo-bb-542",
+    "alias": "OneMoreHello542",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 130,
+    "title": "thanks for coming after me",
+    "story": "i was already outside when you brought the notebook to me. black hoodie, green backpack thanks for coming after me. i meant to ask your name, then lost my nerve",
+    "question": "",
+    "id": "demo-bb-881",
+    "alias": "PassingBy881",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 171,
+    "title": "a moment at Boxx Coffee",
+    "story": "we kept looking at each other until your friend came over. you tucked your short black hair behind your ear and smiled on your way out i was sitting alone with a blue backpack",
+    "question": "",
+    "id": "demo-bb-161",
+    "alias": "OnMyWay161",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 1,
+    "title": "do you recognize me too?",
+    "story": "we have seen each other here a couple of times. you smiled when i walked in. gray t-shirt, canvas bag. id rather say hello than keep wondering if you recognize me",
+    "question": "",
+    "id": "demo-bb-349",
+    "alias": "SmallMoment349",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 10,
+    "title": "sorry for laughing along",
+    "story": "you were telling your friend something funny as you passed, gray t-shirt, brown curls. i laughed before i could help it. you smiled, so i hope you didnt mind",
+    "question": "",
+    "id": "demo-bb-318",
+    "alias": "AfterClass318",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 91,
+    "title": "thanks for waiting for me",
+    "story": "You waited to hold the door even though I was still a few steps away. Green backpack, black cap. I rushed to catch it and only managed a breathless thank you.",
+    "question": "",
+    "id": "demo-bb-229",
+    "alias": "SmallMoment229",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 63,
+    "title": "heading into the same building",
+    "story": "we went into the same building and you glanced over before heading upstairs dark curls, red sweatshirt, a very thick book. wanted to ask what it was. and your name",
+    "question": "Which books were you carrying?",
+    "id": "demo-bb-486",
+    "alias": "CoffeeBreak486",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 38,
+    "title": "you laughed, i checked my card",
+    "story": "you laughed when the reader rejected your card again, i was the woman behind you who checked hers too. black bob, cream jacket. i'd like another conversation without holding up lunch",
+    "question": "",
+    "id": "demo-bb-685",
+    "alias": "AroundHere685",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 180,
+    "title": "by the window at Nossa Familia",
+    "story": "you were reading beside the window, when you got up, you smiled at me and pushed your chair in. green cardigan, blonde bob. i spent too long thinking of an opening line",
+    "question": "",
+    "id": "demo-bb-118",
+    "alias": "CoffeeBreak118",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 94,
+    "title": "Woman in the striped sweater",
+    "story": "You left your coffee where i'd put my bag, when i pointed it out you said the tables all looked alike. Striped sweater, red hair. kinda hoping we run into each other again",
+    "question": "",
+    "id": "demo-bb-955",
+    "alias": "SmallMoment955",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 85,
+    "title": "a book on campus",
+    "story": "you picked up the book just before i got there and handed it over when i asked. green sweatshirt, curly brown hair. you were kinder than you needed to be. would love to talk",
+    "question": "",
+    "id": "demo-bb-691",
+    "alias": "AroundHere691",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 65,
+    "title": "Girl in the white cap",
+    "story": "You looked over while your friends were talking. White cap, long black hair i smiled, but wasnt sure you meant me. Then you looked back as you were leaving",
+    "question": "",
+    "id": "demo-bb-262",
+    "alias": "PassingBy262",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 148,
+    "title": "did you want someone to sit?",
+    "story": "You were sitting alone with your phone face down, gray hoodie, brown hair. We made eye contact when i passed. i nearly asked if you'd like someone to sit with you",
+    "question": "",
+    "id": "demo-bb-167",
+    "alias": "AroundHere167",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 57,
+    "title": "you looked up from your book",
+    "story": "i recognized you from another visit. you had a red paperback and looked up as i passed. dark curls, gray sweatshirt. would love to ask about the book when you're on a break",
+    "question": "",
+    "id": "demo-bb-581",
+    "alias": "AroundHere581",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 116,
+    "title": "Woman with the green scarf",
+    "story": "we shared a table for a few minutes while you waited green scarf, blonde bob. you told me about your new job. would love to hear how it's going",
+    "question": "",
+    "id": "demo-bb-41",
+    "alias": "AfterClass41",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 194,
+    "title": "packing up on campus",
+    "story": "You were with two friends and looked back while I was putting my notebook away. Dark curls, red sweatshirt. I think we both smiled. Was that meant for me?",
+    "question": "",
+    "id": "demo-bb-618",
+    "alias": "PassingBy618",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 45,
+    "title": "Woman in the green cardigan",
+    "story": "You were working and i kept noticing the travel stickers. Blue laptop, green cardigan you smiled when i looked up. would love to hear about one of those places",
+    "question": "",
+    "id": "demo-bb-641",
+    "alias": "AroundHere641",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 190,
+    "title": "your new card wasn't cooperating",
+    "story": "we talked while the cashier sorted your card out red cardigan, dark curls. you said you'd only just replaced it. the line moved and i lost you before asking your name",
+    "question": "",
+    "id": "demo-bb-797",
+    "alias": "AroundHere797",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 88,
+    "title": "Girl in red",
+    "story": "i overheard what you said to your friend and couldn't help laughing, red sweatshirt, dark curls. you noticed and smiled at me. wanted to join in without interrupting",
+    "question": "",
+    "id": "demo-bb-263",
+    "alias": "OneMoreHello263",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 66,
+    "title": "should've stopped to talk",
+    "story": "we have walked past each other here a couple of times, striped scarf, round glasses. you said hi this time. i said it back but should've stopped for more",
+    "question": "",
+    "id": "demo-bb-93",
+    "alias": "AroundHere93",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 196,
+    "title": "you rolled my pencil back",
+    "story": "my pencil went across the floor and you sent it back toward my table we both laughed. blue sweater, long braid. wanted to talk before you left",
+    "question": "What did the pen look like?",
+    "id": "demo-bb-773",
+    "alias": "SmallMoment773",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 215,
+    "title": "packing up at Menagerie",
+    "story": "You were putting your laptop away when i noticed the flowers on it, red headphones, blonde hair. We smiled at each other. i wish i'd started a conversation",
+    "question": "",
+    "id": "demo-bb-902",
+    "alias": "AroundHere902",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 136,
+    "title": "Man in the navy jacket",
+    "story": "You asked my name and about my course. i answered both and somehow asked neither back navy jacket, gray hair. i enjoyed the conversation more than my manners suggested",
+    "question": "",
+    "id": "demo-bb-402",
+    "alias": "AroundHere402",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 191,
+    "title": "at the university bookshelf",
+    "story": "We both checked the shelf and found just one copy. You let me borrow it blue folder, brown hair. i forgot to ask how i could let you know when i was done",
+    "question": "",
+    "id": "demo-bb-846",
+    "alias": "OnMyWay846",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 204,
+    "title": "you stayed longer than a minute",
+    "story": "Your cable wouldn't reach until I shifted my chair. Blue sweater, blonde braid. You said you'd only be a minute and stayed longer. I was glad you did.",
+    "question": "",
+    "id": "demo-bb-482",
+    "alias": "SmallMoment482",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 197,
+    "title": "your cup ended up beside mine",
+    "story": "You put your cup right beside mine, realized, and laughed while picking it up. Green sweatshirt, dark curls. You looked back from your own table. wanted to wave you over.",
+    "question": "",
+    "id": "demo-bb-734",
+    "alias": "PassingBy734",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 127,
+    "title": "thanks for not looking away",
+    "story": "You caught me looking in the coffee line. Red earrings, black bob. You smiled instead of looking away. shouldve introduced myself before you picked up your drink.",
+    "question": "",
+    "id": "demo-bb-66",
+    "alias": "OnMyWay66",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 69,
+    "title": "Woman with the blue cup",
+    "story": "You put your drink on my table and walked away. i called after you before you got far blonde ponytail, green jacket. i liked your embarrassed smile",
+    "question": "",
+    "id": "demo-bb-625",
+    "alias": "CoffeeBreak625",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 202,
+    "title": "Woman with the long braid",
+    "story": "you held the door with your foot while carrying a bag in each hand. i took it from you and we both laughed. long braid, beige coat. wanted to ask your name",
+    "question": "",
+    "id": "demo-bb-923",
+    "alias": "AroundHere923",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 16,
+    "title": "Woman with the nursing textbook",
+    "story": "you sat down next to me while waiting for a friend. we compared how much reading we still had. curly brown hair, gray hoodie. i was glad you asked about that chair",
+    "question": "",
+    "id": "demo-bb-951",
+    "alias": "JustSayingHi951",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 231,
+    "title": "your bag was still beside me",
+    "story": "Your friend picked up a bag and you thought it was yours. Yours was still beside me i pointed it out before you left. Blonde ponytail, gray hoodie. i liked your laugh",
+    "question": "",
+    "id": "demo-bb-915",
+    "alias": "OneMoreHello915",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 12,
+    "title": "mixed pages at Central Library",
+    "story": "one of my pages came out with yours, you brought it back and asked if i was in your class. gray hoodie, dark curls. shouldve asked which class you meant",
+    "question": "Which class were the notes for?",
+    "id": "demo-bb-991",
+    "alias": "JustSayingHi991",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 180,
+    "title": "a minute before you hurried off",
+    "story": "your phone had died and you asked me the time. red sweatshirt, brown curls. we talked for a minute before you hurried off. wanted to ask your name too",
+    "question": "",
+    "id": "demo-bb-298",
+    "alias": "JustSayingHi298",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 55,
+    "title": "your friend arrived too soon",
+    "story": "you asked to sit while you waited for someone. red sweatshirt, dark curls. we started talking about your course, then your friend arrived. wanted to keep you there a little longer",
+    "question": "",
+    "id": "demo-bb-383",
+    "alias": "JustSayingHi383",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 218,
+    "title": "Woman in green",
+    "story": "you picked up my pen while you were walking past. green coat, short blonde hair. i had headphones on and only mouthed thank you. would love to say it properly",
+    "question": "What did the pen look like?",
+    "id": "demo-bb-859",
+    "alias": "PassingBy859",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 223,
+    "title": "Girl in the gray sweatshirt",
+    "story": "i recognized the topic on your slides because id just been assigned it too. we compared our outlines. gray sweatshirt, loose curls. you seemed relieved, and i would've happily kept talking",
+    "question": "What was the presentation about?",
+    "id": "demo-bb-470",
+    "alias": "AroundHere470",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 189,
+    "title": "waiting out of your photo",
+    "story": "i waited while you lined up your picture. you noticed, smiled, and said i could pass. green coat, brown hair. i wish id used that moment to start a conversation",
+    "question": "",
+    "id": "demo-bb-317",
+    "alias": "CoffeeBreak317",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 21,
+    "title": "how did the photo turn out?",
+    "story": "You were taking a photo and i stepped back out of the way, you gave me a friendly nod afterward. Brown jacket, film camera. would love to know what you saw in that shot",
+    "question": "",
+    "id": "demo-bb-175",
+    "alias": "JustSayingHi175",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 144,
+    "title": "Guy in gray",
+    "story": "i gave you directions outside, then realized shouldve told you to turn earlier. gray shirt, green backpack. i hope you found it. i wish i could've walked with you",
+    "question": "",
+    "id": "demo-bb-326",
+    "alias": "SmallMoment326",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 85,
+    "title": "remembered the course too late",
+    "story": "You said you were a history student. i was trying to remember a course name when your friend showed up faded college shirt, brown hair. i remembered it after you left, of course",
+    "question": "What were we talking about while we waited?",
+    "id": "demo-bb-875",
+    "alias": "CoffeeBreak875",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 203,
+    "title": "Blue glasses at Qargo",
+    "story": "you let me take the last almond pastry bc you were still deciding. blue glasses, black bob. we talked till my coffee was ready and then i just left?? shouldve stayed a bit longer",
+    "question": "",
+    "id": "demo-bb-723",
+    "alias": "OnMyWay723",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 167,
+    "title": "neither answer made sense",
+    "story": "you had one answer and i had another, we compared our working and laughed when neither made sense. red cardigan, brown hair. maybe we could study together next time",
+    "question": "Which subject were we working on?",
+    "id": "demo-bb-410",
+    "alias": "CoffeeBreak410",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 107,
+    "title": "we waited out the rain",
+    "story": "we waited together for the rain to slow. you were carrying a red bag and had your hair in a bun. we said goodbye outside. wish we'd made a plan before splitting up",
+    "question": "",
+    "id": "demo-bb-522",
+    "alias": "JustSayingHi522",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 106,
+    "title": "Woman in the black jacket",
+    "story": "i lent you my pen and you returned it with a thank-you on the back of a receipt, black jacket, hoop earrings. i kept thinking shouldve asked your name",
+    "question": "",
+    "id": "demo-bb-713",
+    "alias": "SmallMoment713",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 60,
+    "title": "waiting for your ride",
+    "story": "you tried to open it, gave up, and waited beside me blue umbrella, beige coat. we talked until your ride arrived. i wished i had asked your name before you got in",
+    "question": "",
+    "id": "demo-bb-593",
+    "alias": "AfterClass593",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 203,
+    "title": "Guy with the wet glasses",
+    "story": "you came back under cover to dry your glasses and we started talking. black coat, round glasses. when the rain eased, i left without introducing myself. would love to fix that",
+    "question": "",
+    "id": "demo-bb-415",
+    "alias": "AfterClass415",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 74,
+    "title": "yes, that was mine",
+    "story": "you found it beside your shoe and asked if it was mine. red backpack, black curls i was the woman with the scattered notes. i liked your smile",
+    "question": "",
+    "id": "demo-bb-597",
+    "alias": "AroundHere597",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 15,
+    "title": "can we finish that conversation?",
+    "story": "you asked whether i'd heard how long the wait would be red suitcase, dark ponytail. we talked until boarding started, then sat apart. would love to finish the conversation",
+    "question": "",
+    "id": "demo-bb-362",
+    "alias": "CoffeeBreak362",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 123,
+    "title": "stepping out on the same floor",
+    "story": "We both stepped out on the same floor and laughed at almost bumping into each other. Blue folder, dark ponytail. I went to my table wishing we'd talked.",
+    "question": "Which floor were you looking for?",
+    "id": "demo-bb-854",
+    "alias": "PassingBy854",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 27,
+    "title": "studying at Parkway Central",
+    "story": "i cleared the chair for you, we studied in silence until you asked whether i was nearly finished. gray shirt, green notebook. i said yes, though i would've stayed longer to talk",
+    "question": "",
+    "id": "demo-bb-475",
+    "alias": "AroundHere475",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 185,
+    "title": "you came back with my cable",
+    "story": "you asked to charge your phone for a few minutes we spoke briefly when you returned the cable. green case, blue cardigan. i liked your voice and wanted to keep talking",
+    "question": "What were you charging?",
+    "id": "demo-bb-533",
+    "alias": "OneMoreHello533",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 217,
+    "title": "Guy I kept looking at",
+    "story": "i called after you because your laptop bag was still on the chair. you came back and asked if id seen your charger too i hadn't, but would love to see you again",
+    "question": "",
+    "id": "demo-bb-857",
+    "alias": "AroundHere857",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 171,
+    "title": "have we met before?",
+    "story": "i recognized your striped cardigan, then realized i remembered your face too. you smiled as you walked past i nearly asked if we'd met. if you remember me, say hi",
+    "question": "",
+    "id": "demo-bb-367",
+    "alias": "SmallMoment367",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 57,
+    "title": "another visit, another smile",
+    "story": "we smiled at each other again today. blue cap, brown curls i think we were waiting together on my last visit too. maybe next time we could actually talk",
+    "question": "",
+    "id": "demo-bb-78",
+    "alias": "CoffeeBreak78",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 157,
+    "title": "we compared our photos",
+    "story": "i moved so you could stand where id been. we compared our photos briefly gray t-shirt, blue cap. wanted to ask if you took photos often, but headed off too quickly",
+    "question": "",
+    "id": "demo-bb-61",
+    "alias": "CoffeeBreak61",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 120,
+    "title": "i liked the angle you chose",
+    "story": "we took turns photographing the view you showed me yours afterward and i liked the angle you chose. red strap, dark curls. i'd like another conversation without a camera between us",
+    "question": "What were we taking photos of?",
+    "id": "demo-bb-203",
+    "alias": "PassingBy203",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 55,
+    "title": "then the barista called you",
+    "story": "you looked at me while waiting for your drink, we smiled, then the barista called you. gray t-shirt, brown hair. wanted to say something before you left",
+    "question": "",
+    "id": "demo-bb-283",
+    "alias": "OnMyWay283",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 144,
+    "title": "Silver hoops and a brown jacket",
+    "story": "you opened the door as i was leaving and we stopped face to face. brown jacket, silver hoops we exchanged a quick hi. i wish id found a reason to stay",
+    "question": "",
+    "id": "demo-bb-121",
+    "alias": "SmallMoment121",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 31,
+    "title": "you held it beside your face",
+    "story": "You held your card next to your face to show me the difference. We laughed, then went inside with the others. Brown jacket, short beard. shouldve kept talking.",
+    "question": "",
+    "id": "demo-bb-978",
+    "alias": "JustSayingHi978",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 181,
+    "title": "a moment at PDX Coffee Club",
+    "story": "You asked to sit while waiting for someone. We had just started getting comfortable talking when they called. Green coat, blonde braid. I enjoyed those few minutes.",
+    "question": "",
+    "id": "demo-bb-211",
+    "alias": "OnMyWay211",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 54,
+    "title": "you caught me laughing too",
+    "story": "you caught me smiling at your conversation with a friend, striped sweater, blonde braid. we both laughed for a second. wanted to introduce myself but let the moment go",
+    "question": "",
+    "id": "demo-bb-129",
+    "alias": "OnMyWay129",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 231,
+    "title": "opposite you, again",
+    "story": "you were in the seat across from mine again. gray t-shirt, headphones around your neck. we smiled when i arrived. i left before you packed up and regretted not saying hello",
+    "question": "",
+    "id": "demo-bb-994",
+    "alias": "CoffeeBreak994",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 205,
+    "title": "ten minutes, still no name",
+    "story": "you pulled out the chair, asked what i studied, and we talked for ten minutes. then your friend arrived green notebook, blonde ponytail. i realized i hadn't asked your name",
+    "question": "What were you working on?",
+    "id": "demo-bb-469",
+    "alias": "SmallMoment469",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 26,
+    "title": "waiting at Union Station",
+    "story": "we smiled while waiting and ended up on the same departure gray hoodie, blue duffel. i thought we'd get a chance to talk afterward, but lost you in the crowd",
+    "question": "",
+    "id": "demo-bb-355",
+    "alias": "AfterClass355",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 48,
+    "title": "wish that call had ended sooner",
+    "story": "you looked over and smiled while i was talking on the phone. gray shirt, dark hair wanted to say hi but couldnt interrupt the call. i wished it would end sooner",
+    "question": "",
+    "id": "demo-bb-285",
+    "alias": "OneMoreHello285",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 183,
+    "title": "Amy, was it?",
+    "story": "We were waiting beside the pickup counter. i think you said Amy red scarf, blonde hair. My friend waved me over and i left before asking whether youd like to sit with us",
+    "question": "",
+    "id": "demo-bb-839",
+    "alias": "SmallMoment839",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 199,
+    "title": "wrong cable, nice conversation",
+    "story": "we compared cable ends before realizing mine wouldn't help. you laughed and thanked me anyway blue cardigan, long braid. shouldve kept talking while you waited for your friend",
+    "question": "",
+    "id": "demo-bb-431",
+    "alias": "OnMyWay431",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 23,
+    "title": "you made my afternoon nicer",
+    "story": "You stopped me to ask the time. Blue scarf, short blonde hair we had a little conversation before you went on your way. It made an ordinary afternoon a bit nicer",
+    "question": "",
+    "id": "demo-bb-217",
+    "alias": "SmallMoment217",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 22,
+    "title": "you put your bookmark in",
+    "story": "You smiled and put your bookmark in, but I kept walking. Brown jacket, silver hair. I only realized afterward that you might have been about to say something.",
+    "question": "",
+    "id": "demo-bb-669",
+    "alias": "OneMoreHello669",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 24,
+    "title": "Man in the blue coat",
+    "story": "we passed quite close and both looked over our shoulders afterward blue coat, brown curls. i didnt know whether to turn around fully. wanted to",
+    "question": "",
+    "id": "demo-bb-11",
+    "alias": "JustSayingHi11",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 138,
+    "title": "waiting at the campus register",
+    "story": "Your card wasnt working and you asked if there was another register. We chatted until someone helped navy sweater, blonde braid. i was the guy carrying the red folder",
+    "question": "",
+    "id": "demo-bb-843",
+    "alias": "AfterClass843",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 135,
+    "title": "i moved my bag, you smiled",
+    "story": "you were eating across from me and trying to read something on your phone. you smiled after i moved my bag out of your way. green lunch bag, brown curls. would love to say hello properly",
+    "question": "",
+    "id": "demo-bb-606",
+    "alias": "CoffeeBreak606",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 206,
+    "title": "Guy in red",
+    "story": "you brought it back while i was on a call and left a quick note red sweatshirt, curly hair. i couldn't talk then. i wish i'd caught you before you went",
+    "question": "What did the pen look like?",
+    "id": "demo-bb-643",
+    "alias": "OneMoreHello643",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 91,
+    "title": "one smile before coffee arrived",
+    "story": "You looked at the entrance between glances toward the counter. Green jacket, blonde braid we smiled just before your drink arrived. i wish youd had time to stay",
+    "question": "",
+    "id": "demo-bb-189",
+    "alias": "PassingBy189",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 90,
+    "title": "Curly-haired girl",
+    "story": "we made eye contact while waiting and you smiled over your shoulder. dark curls, red sweatshirt your order was ready before i worked up the courage to ask your name",
+    "question": "",
+    "id": "demo-bb-134",
+    "alias": "AfterClass134",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 133,
+    "title": "too noisy to catch your name",
+    "story": "We introduced ourselves over the noise at the counter. i didnt catch your name and felt awkward asking twice round glasses, curly hair. i was the woman with the purple phone case",
+    "question": "",
+    "id": "demo-bb-459",
+    "alias": "OneMoreHello459",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 182,
+    "title": "the last cinnamon roll",
+    "story": "We both asked about the last cinnamon roll, you let me order it and chose something else. Red sweatshirt, brown curls. wanted to ask if you'd sit down with me",
+    "question": "",
+    "id": "demo-bb-463",
+    "alias": "JustSayingHi463",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 187,
+    "title": "you recognized my graph",
+    "story": "You recognized the graph I was working on. We started talking about the class until your friend called you over. Gray shirt, navy backpack. would love to study with you sometime.",
+    "question": "",
+    "id": "demo-bb-771",
+    "alias": "OnMyWay771",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 62,
+    "title": "Black backpack",
+    "story": "your id was on the ground behind you. i handed it over and you asked if you knew me from class. i said maybe, although i dont think we do. orange strap on your backpack",
+    "question": "",
+    "id": "demo-bb-509",
+    "alias": "OneMoreHello509",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 71,
+    "title": "you rescued my notebook",
+    "story": "You brought my notebook over before i left, yellow tote, brown bob. i had a call coming in and rushed my thanks. i'd like another chance to say hello",
+    "question": "What did the notebook look like?",
+    "id": "demo-bb-975",
+    "alias": "PassingBy975",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 135,
+    "title": "we had the same worksheet",
+    "story": "You recognized the worksheet in front of me and pulled out yours, we talked until you had to go. Gray beanie, glasses. shouldve asked if you wanted to work together",
+    "question": "",
+    "id": "demo-bb-913",
+    "alias": "OnMyWay913",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 227,
+    "title": "your friend cut our chat short",
+    "story": "i was trying to explain why i liked it when your friend showed up. navy hoodie, brown curls. you seemed interested. would love to hear what you would've recommended",
+    "question": "",
+    "id": "demo-bb-494",
+    "alias": "AroundHere494",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 53,
+    "title": "Red cap",
+    "story": "We looked at each other briefly near the exit. Red cap, gray sweatshirt. I smiled but couldn't tell if you saw. would love to introduce myself if you remember me.",
+    "question": "",
+    "id": "demo-bb-46",
+    "alias": "PassingBy46",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 187,
+    "title": "can i finish my answer?",
+    "story": "you asked if i was studying architecture. i was about to explain when someone called you over red hair, black coat. would love to start that conversation again",
+    "question": "What did I ask you about?",
+    "id": "demo-bb-934",
+    "alias": "CoffeeBreak934",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 102,
+    "title": "catching up with your friends",
+    "story": "your friends were ahead of you, you turned back toward me and smiled before catching up. blonde hair, gray sweatshirt. i was the guy carrying the big blue folder",
+    "question": "",
+    "id": "demo-bb-421",
+    "alias": "AfterClass421",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 129,
+    "title": "same assignment, easy chat",
+    "story": "you were planning your presentation on paper before opening your laptop we talked about having the same assignment. dark curls, yellow notebook. i liked how easily the conversation started",
+    "question": "",
+    "id": "demo-bb-671",
+    "alias": "AroundHere671",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 59,
+    "title": "where do you usually ride?",
+    "story": "we talked about cycling for a minute while you waited outside. green cap, gray jacket. your friend arrived and you had to go. i didnt get to ask where you usually ride",
+    "question": "",
+    "id": "demo-bb-794",
+    "alias": "PassingBy794",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 75,
+    "title": "Guy with the red backpack",
+    "story": "the contactless payment wasnt working. you asked if id had the same trouble, and we chatted while the cashier helped. red backpack, dark curls. would love to talk again without a queue behind us",
+    "question": "",
+    "id": "demo-bb-114",
+    "alias": "CoffeeBreak114",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 125,
+    "title": "two tables away at Muse",
+    "story": "you looked over while winding your scarf on. red scarf, dark ponytail. i was two tables away. i nearly stood up to introduce myself, then you were out the door",
+    "question": "",
+    "id": "demo-bb-233",
+    "alias": "CoffeeBreak233",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 110,
+    "title": "that chair was free",
+    "story": "you paused by mine when the room was full, dark curls, red sweatshirt. i had a free chair but didnt offer it quickly enough. i'd have liked you to sit down",
+    "question": "",
+    "id": "demo-bb-662",
+    "alias": "SmallMoment662",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 223,
+    "title": "you had an umbrella, but stayed",
+    "story": "you had an umbrella but stood talking with me while i waited for the rain green umbrella, short brown hair. that was kind. would love to see you on a dry day too",
+    "question": "",
+    "id": "demo-bb-983",
+    "alias": "AroundHere983",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 116,
+    "title": "Man with the red folder",
+    "story": "you sat beside me and asked what i was reading. red folder, glasses your phone rang mid-conversation and you hurried away. i wasnt finished asking about your recommendation either",
+    "question": "",
+    "id": "demo-bb-325",
+    "alias": "AfterClass325",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 98,
+    "title": "didn't want to interrupt you",
+    "story": "you had the same book with you as on my last visit, we smiled across the table before you opened your laptop. i didnt want to interrupt, but would love to meet you",
+    "question": "",
+    "id": "demo-bb-893",
+    "alias": "OneMoreHello893",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 134,
+    "title": "your blue backpack, nearly down",
+    "story": "you had almost put your bag down when you saw me heading for the table you moved to the other one. gray t-shirt, blue backpack. wanted to say more than thanks",
+    "question": "",
+    "id": "demo-bb-658",
+    "alias": "JustSayingHi658",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 126,
+    "title": "that route we talked about",
+    "story": "you were easy to talk to while i described the route. brown jacket, round glasses. we smiled before you headed off. would love to talk without either of us needing directions",
+    "question": "",
+    "id": "demo-bb-170",
+    "alias": "AfterClass170",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 83,
+    "title": "comparing pages on campus",
+    "story": "your copy was missing a page so i showed you mine. you were in a white t-shirt. we talked about the course for a bit. i wish id asked to study together",
+    "question": "",
+    "id": "demo-bb-474",
+    "alias": "PassingBy474",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 84,
+    "title": "where did you go afterward?",
+    "story": "you asked if the seat next to me was saved. it wasnt. we chatted until the microphone came on green jacket, short beard. i thought we'd talk again after the lecture, but everyone stood up and you disappeared into the crowd",
+    "question": "",
+    "id": "demo-bb-761",
+    "alias": "AfterClass761",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 15,
+    "title": "Girl in the red coat",
+    "story": "You were ahead of me while we waited. We made eye contact again on board, but it was crowded. Dark curls, red coat. I looked for you when we got off and missed you.",
+    "question": "",
+    "id": "demo-bb-21",
+    "alias": "OneMoreHello21",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 66,
+    "title": "my blurry photo made us laugh",
+    "story": "we swapped spots to photograph the view, mine came out blurry and we laughed. green jacket, blonde braid. i would've liked to keep walking and talking with you",
+    "question": "What were we taking photos of?",
+    "id": "demo-bb-151",
+    "alias": "CoffeeBreak151",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 21,
+    "title": "Man in the brown coat",
+    "story": "you waited for me to finish, then took the same shot we talked about film for a minute. brown coat, glasses. i didnt get your name before you walked on",
+    "question": "",
+    "id": "demo-bb-294",
+    "alias": "AroundHere294",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 131,
+    "title": "you paused your reading",
+    "story": "you marked your page when you noticed me. green cardigan, blonde braid. we smiled, then i walked past. i wondered afterward if youd been about to speak",
+    "question": "",
+    "id": "demo-bb-506",
+    "alias": "OnMyWay506",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 76,
+    "title": "i looked away, sorry",
+    "story": "You closed your book when you caught me looking. Gray T-shirt, brown hair. I thought you might speak, but I got nervous and looked away. would love to try again.",
+    "question": "",
+    "id": "demo-bb-185",
+    "alias": "OneMoreHello185",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 130,
+    "title": "you couldve ordered first",
+    "story": "we reached the counter together and wanted the same thing, you let me order it. white shirt, small gold hoops. you were still smiling when i turned back with my plate",
+    "question": "",
+    "id": "demo-bb-605",
+    "alias": "SmallMoment605",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 231,
+    "title": "art student, shouldve guessed",
+    "story": "You laughed when I asked if you studied art and showed me your sleeve. We were next to each other in line. would love to talk when neither of us is rushing somewhere.",
+    "question": "",
+    "id": "demo-bb-513",
+    "alias": "SmallMoment513",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 108,
+    "title": "you smiled over your lunch tray",
+    "story": "You smiled at me while carrying your tray away, gray sweater, glasses. i was still sitting with my lunch. wanted to ask if you'd like to sit together another time",
+    "question": "",
+    "id": "demo-bb-919",
+    "alias": "JustSayingHi919",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 207,
+    "title": "you look better in person",
+    "story": "you showed me your card while we waited to go in. you had much longer hair in it. gray t-shirt, black backpack. we were still laughing when the door opened",
+    "question": "",
+    "id": "demo-bb-557",
+    "alias": "CoffeeBreak557",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 228,
+    "title": "the drawings under your arm",
+    "story": "We talked while leaving campus. You had drawings under your arm and said you were nearly done for the week. I liked your enthusiasm. Could we finish the conversation sometime?",
+    "question": "",
+    "id": "demo-bb-825",
+    "alias": "AfterClass825",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 93,
+    "title": "when will you be here again?",
+    "story": "You saw the course code on my page and said you were taking it too. We compared schedules red folder, dark jacket. i wish id asked when youd be here next",
+    "question": "",
+    "id": "demo-bb-502",
+    "alias": "OneMoreHello502",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 162,
+    "title": "Girl with the silver headphones",
+    "story": "you took your headphones off while you ate, we looked at each other but didnt speak. long brown hair, white sweater. you were gone when i came back with my drink",
+    "question": "",
+    "id": "demo-bb-465",
+    "alias": "JustSayingHi465",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 110,
+    "title": "Guy in the gray T-shirt",
+    "story": "I was halfway out when we made eye contact. Gray T-shirt, black glasses. I nearly turned back. I'd like another chance to say hello without blocking the doorway.",
+    "question": "",
+    "id": "demo-bb-319",
+    "alias": "OnMyWay319",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 226,
+    "title": "Woman I kept looking at",
+    "story": "you introduced yourself while we waited for our drinks. im terrible with names but remember your blue earrings and your laugh. i was the man trying to balance his books and coffee",
+    "question": "",
+    "id": "demo-bb-999",
+    "alias": "AroundHere999",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 128,
+    "title": "Girl with dark curls",
+    "story": "My pen rolled under your chair and you handed it back. Dark curls, white shirt. You smiled as I thanked you. wanted to ask your name but went straight back to my notes.",
+    "question": "What did the pen look like?",
+    "id": "demo-bb-422",
+    "alias": "AfterClass422",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 206,
+    "title": "same seats at Allelo",
+    "story": "we've sat near each other here before, you looked up as i arrived and smiled. gray cap, dark curls. i was tempted to ask if the seat opposite was free",
+    "question": "",
+    "id": "demo-bb-943",
+    "alias": "SmallMoment943",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 3,
+    "title": "Blue sweater",
+    "story": "we looked at each other and both smiled, blue sweater, dark curls. your drink came first and you walked away. i was still trying to think of a normal way to say hi",
+    "question": "",
+    "id": "demo-bb-117",
+    "alias": "SmallMoment117",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 17,
+    "title": "a minute talking outside",
+    "story": "You asked me outside and we chatted for a minute. Blue scarf, short black hair. wanted to ask your name, but only thought of it when you were walking away.",
+    "question": "Where were you trying to go?",
+    "id": "demo-bb-75",
+    "alias": "PassingBy75",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 64,
+    "title": "i needed a minute of courage",
+    "story": "i've seen you here before, but this time we sat at the same time. dark curls, navy coat. we smiled and i almost said hi. you left before i talked myself into it",
+    "question": "",
+    "id": "demo-bb-198",
+    "alias": "AfterClass198",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 56,
+    "title": "Girl with the black bob",
+    "story": "you asked the time and said you needed to get going, black bob, striped sweater. we both smiled before you left. shouldve at least introduced myself",
+    "question": "",
+    "id": "demo-bb-350",
+    "alias": "JustSayingHi350",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 89,
+    "title": "outside Monday Coffee",
+    "story": "you asked which way to go and i confidently pointed the wrong way. red jacket, curly hair i realized after youd left. sorry. id also genuinely like to talk again",
+    "question": "",
+    "id": "demo-bb-115",
+    "alias": "CoffeeBreak115",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 122,
+    "title": "you stood up as i passed",
+    "story": "you were sitting with two friends when i walked past. red sweater, brown curls. we looked at each other as you stood up. wanted to say hi but didnt want to interrupt",
+    "question": "",
+    "id": "demo-bb-49",
+    "alias": "SmallMoment49",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 222,
+    "title": "you brought back my notebook",
+    "story": "you walked over holding the notebook i'd forgotten, gray shirt, short beard. we talked about how much i'd written in it. wanted to talk about you too",
+    "question": "",
+    "id": "demo-bb-737",
+    "alias": "CoffeeBreak737",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 139,
+    "title": "never introduced myself",
+    "story": "you had accidentally collected the diagram i was waiting for. you came back and asked what it was for. we talked until your next printout was ready. shouldve introduced myself",
+    "question": "Which class were the notes for?",
+    "id": "demo-bb-766",
+    "alias": "JustSayingHi766",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 25,
+    "title": "Guy in the black hoodie",
+    "story": "we had the same subject but completely different examples. you turned your laptop around to show me yours black hoodie, brown curls. i meant to ask your name before you left",
+    "question": "What was the presentation about?",
+    "id": "demo-bb-437",
+    "alias": "PassingBy437",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 32,
+    "title": "too many books, both of us",
+    "story": "we both seem to bring too many books. you smiled at mine when you packed up last time. yellow pencil case, green hoodie. im the woman with the red tote",
+    "question": "",
+    "id": "demo-bb-535",
+    "alias": "SmallMoment535",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 36,
+    "title": "Man in the green sweater",
+    "story": "We've ended up at neighboring study tables more than once, green sweater, glasses. You smiled on your way out last time. would love to introduce myself if we cross paths again",
+    "question": "",
+    "id": "demo-bb-755",
+    "alias": "AfterClass755",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 92,
+    "title": "an hour at Star Lounge",
+    "story": "You checked with me before unplugging an unused cable. Green case, black bob. We sat beside each other for an hour and somehow never introduced ourselves.",
+    "question": "",
+    "id": "demo-bb-883",
+    "alias": "OnMyWay883",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 103,
+    "title": "Woman in blue",
+    "story": "we only talked for a minute before the table got busy, blue cardigan, long black braid. i remember the event you recommended, but forgot to ask your name",
+    "question": "Which club was the table for?",
+    "id": "demo-bb-611",
+    "alias": "CoffeeBreak611",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 155,
+    "title": "were you about to say something?",
+    "story": "We've been here at different times, but finally sat together for a few minutes, blue book, round glasses. You looked like you might speak. i wish i'd started",
+    "question": "",
+    "id": "demo-bb-287",
+    "alias": "PassingBy287",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 105,
+    "title": "you lit up talking about design",
+    "story": "You told me about the design course you'd just started. I asked one question and you lit up explaining it. Dark curls, gray jacket. Then your friends arrived and we lost our place in the conversation.",
+    "question": "What were we talking about while we waited?",
+    "id": "demo-bb-959",
+    "alias": "OneMoreHello959",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 152,
+    "title": "Guy in the gray T-shirt",
+    "story": "The cashier asked if it was your usual and you said you were trying to branch out. Gray T-shirt, glasses i laughed behind you. would love to hear what else you had to say",
+    "question": "",
+    "id": "demo-bb-153",
+    "alias": "JustSayingHi153",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 191,
+    "title": "leaving the study area",
+    "story": "i recognize you from the study area. we exchanged a quick hi as you left last time. gray hoodie, thick blue textbook. could we make it a conversation next time?",
+    "question": "",
+    "id": "demo-bb-663",
+    "alias": "JustSayingHi663",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 99,
+    "title": "we knew the bench, not names",
+    "story": "You were already on the bench when i arrived. Red scarf, black bob we smiled because we'd seen each other before. wanted to ask your name before you got up",
+    "question": "",
+    "id": "demo-bb-38",
+    "alias": "PassingBy38",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 120,
+    "title": "waiting while you took the photo",
+    "story": "you waved me past after taking the photo and thanked me for waiting. gray t-shirt, black camera strap. wanted to ask whether the picture came out well",
+    "question": "",
+    "id": "demo-bb-14",
+    "alias": "PassingBy14",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 198,
+    "title": "red scarf and round glasses",
+    "story": "i've seen you reading here before. Red scarf, round glasses you looked up and smiled when i took the table nearby. would love to talk if you remember me too",
+    "question": "",
+    "id": "demo-bb-727",
+    "alias": "AfterClass727",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 229,
+    "title": "still stuck on that problem?",
+    "story": "you spotted a mistake, then we both got stuck further down the page blue cardigan, long braid. we didnt finish the problem, but would love to finish talking",
+    "question": "Which subject were we working on?",
+    "id": "demo-bb-829",
+    "alias": "JustSayingHi829",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 88,
+    "title": "Woman with the silver hoops",
+    "story": "We glanced at each other a few times while you sat there. Silver hoops, black sweater. You smiled when you left. wish I hadn't waited until then to think about talking.",
+    "question": "",
+    "id": "demo-bb-329",
+    "alias": "PassingBy329",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 69,
+    "title": "can we try introductions again?",
+    "story": "You introduced the conversation while waiting for a friend. i told you my name and got distracted by what you said next gray T-shirt, black watch. Can i try again?",
+    "question": "",
+    "id": "demo-bb-614",
+    "alias": "AroundHere614",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 58,
+    "title": "shouldve kept talking to you",
+    "story": "We were both looking at the same slice. You ordered something different and smiled at me burgundy sweater, short beard. i thanked you, but would've preferred to keep talking",
+    "question": "",
+    "id": "demo-bb-941",
+    "alias": "AroundHere941",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 221,
+    "title": "Girl in the white T-shirt",
+    "story": "we both stepped aside at the entrance and then both tried to go through. you said after you and smiled. white t-shirt, red hair. shouldve introduced myself right there",
+    "question": "",
+    "id": "demo-bb-903",
+    "alias": "OneMoreHello903",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 230,
+    "title": "as your friend called you over",
+    "story": "Your friend called you from across the room, you touched my shoulder to say bye, then hurried over. Blue cap, silver chain. i didnt expect that tiny goodbye to stay with me",
+    "question": "",
+    "id": "demo-bb-879",
+    "alias": "JustSayingHi879",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 211,
+    "title": "the socket with the loose switch",
+    "story": "you asked if the socket worked and i showed you the loose switch. gray t-shirt, close-cut hair. you smiled each time one of us had to step over your cable",
+    "question": "",
+    "id": "demo-bb-634",
+    "alias": "PassingBy634",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 46,
+    "title": "Guy in gray",
+    "story": "you turned around and laughed about the machine. gray t-shirt, green cap. we chatted until it finally worked. you left while i paid, before i asked your name",
+    "question": "",
+    "id": "demo-bb-314",
+    "alias": "JustSayingHi314",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 67,
+    "title": "Student with the red glasses",
+    "story": "i returned your card outside. you joked that you would've noticed at the next locked door. red glasses, dark curls. i laughed and then completely forgot how to continue a conversation",
+    "question": "What did the card holder look like?",
+    "id": "demo-bb-403",
+    "alias": "OnMyWay403",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 109,
+    "title": "waiting for two drinks",
+    "story": "we talked about the cold weather while you waited for two drinks. you said your name right as mine was called brown curls, black coat. i left much too quickly",
+    "question": "",
+    "id": "demo-bb-477",
+    "alias": "CoffeeBreak477",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 207,
+    "title": "leaving campus with your friends",
+    "story": "you were leaving with friends and turned around when i came out striped shirt, black glasses. we said bye even though we hadn't talked. would love to fix that part",
+    "question": "",
+    "id": "demo-bb-882",
+    "alias": "AroundHere882",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 142,
+    "title": "Girl with the striped tote",
+    "story": "you let me go through first, then we both said thanks and laughed. striped tote, short brown hair. i've seen you here before. shouldve introduced myself this time",
+    "question": "",
+    "id": "demo-bb-293",
+    "alias": "CoffeeBreak293",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 115,
+    "title": "your folder slipped, i caught up",
+    "story": "your folder slipped from under your arm and i picked it up, dark curls, red coat. you thanked me while gathering the loose pages. i wish i'd helped long enough to learn your name",
+    "question": "What did you drop?",
+    "id": "demo-bb-366",
+    "alias": "SmallMoment366",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 78,
+    "title": "Guy in the gray T-shirt",
+    "story": "you were telling me about your new job when your phone rang, gray shirt, brown hair. you stepped outside and didnt come back before i left. would love to hear the rest",
+    "question": "",
+    "id": "demo-bb-178",
+    "alias": "SmallMoment178",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 168,
+    "title": "Guy with the gray shirt",
+    "story": "You told me your name while the grinder was running, i nodded like i'd heard it. Gray shirt, short beard. That was stupid of me because wanted to keep talking",
+    "question": "",
+    "id": "demo-bb-698",
+    "alias": "OneMoreHello698",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 104,
+    "title": "book closed, time for a break",
+    "story": "We met eyes as you closed your book and stretched. I've seen you at the study tables before. Blue shirt, brown curls. shouldve asked whether you wanted company for a break.",
+    "question": "",
+    "id": "demo-bb-894",
+    "alias": "SmallMoment894",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 106,
+    "title": "the cable wasnt the best part",
+    "story": "you showed me the charging port and we both checked my cable. no luck. purple case, short brown hair. i liked the little conversation more than i managed to show",
+    "question": "",
+    "id": "demo-bb-950",
+    "alias": "OnMyWay950",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 8,
+    "title": "we wanted the same seat",
+    "story": "we both went for the same spot. you moved over to the next table and gave me a nod. green cap, white shirt. i wish id asked if we could sit together",
+    "question": "",
+    "id": "demo-bb-759",
+    "alias": "JustSayingHi759",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 107,
+    "title": "caught staring at your sticker",
+    "story": "i noticed the little frog on your laptop and you caught me looking. dark curls, red sweater. wanted to ask where you got it, but mostly wanted to talk to you",
+    "question": "",
+    "id": "demo-bb-967",
+    "alias": "PassingBy967",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 161,
+    "title": "Guy in the gray shirt",
+    "story": "You stepped aside at the counter and I accidentally ordered the last croissant. You laughed when I apologized. Gray shirt, green cap. Coffee's on me if you see this.",
+    "question": "",
+    "id": "demo-bb-909",
+    "alias": "OneMoreHello909",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 181,
+    "title": "Woman with the blue coat",
+    "story": "You smiled as you walked past me. Blue coat, short blonde hair i was in the middle of a work call and couldnt speak. id like a chance when im not distracted",
+    "question": "",
+    "id": "demo-bb-87",
+    "alias": "OneMoreHello87",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 56,
+    "title": "your bag slipped, we laughed",
+    "story": "the strap slid off your shoulder and i handed the bag back. gray t-shirt, blue shoes. we laughed about how much you were carrying. id like another conversation",
+    "question": "",
+    "id": "demo-bb-270",
+    "alias": "JustSayingHi270",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 128,
+    "title": "at Streamway Coffee",
+    "story": "we looked up at the same time more than once red cardigan, dark curls. when you stood to leave, i nearly asked your name. i ended up just smiling",
+    "question": "",
+    "id": "demo-bb-302",
+    "alias": "OnMyWay302",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 7,
+    "title": "Girl with dark curls",
+    "story": "You petted the dog beside me and we chatted briefly. Dark curls, green jacket the dog belongs to my friend, which i never got around to saying. would love to see you again",
+    "question": "",
+    "id": "demo-bb-101",
+    "alias": "PassingBy101",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 111,
+    "title": "Girl with the long braid",
+    "story": "we walked past, looked back, and smiled at each other. long braid, beige jacket. i nearly said something from across the path. id like a less awkward chance to introduce myself",
+    "question": "",
+    "id": "demo-bb-341",
+    "alias": "JustSayingHi341",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 18,
+    "title": "we reached for the same book",
+    "story": "we both reached for the same book and you said you could wait. curly hair, red sweater shouldve asked your name so i could tell you when i brought it back",
+    "question": "Which book were we looking for?",
+    "id": "demo-bb-457",
+    "alias": "PassingBy457",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 68,
+    "title": "have you seen them live?",
+    "story": "I recognized the band on your laptop. You smiled when you saw me looking over. Gray T-shirt, black curls. shouldve asked whether you'd seen them live.",
+    "question": "",
+    "id": "demo-bb-817",
+    "alias": "CoffeeBreak817",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 113,
+    "title": "smiled as i passed your group",
+    "story": "you looked over a few times while you stood together red sweatshirt, black curls. i smiled when i passed, but was already leaving. wanted to turn around",
+    "question": "",
+    "id": "demo-bb-182",
+    "alias": "AroundHere182",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 222,
+    "title": "we talked about changing majors",
+    "story": "you asked to sit while you waited for someone. we got talking about your decision to change majors. black curls, navy sweatshirt. id be interested to hear what you choose",
+    "question": "",
+    "id": "demo-bb-726",
+    "alias": "JustSayingHi726",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 100,
+    "title": "we took turns with the view",
+    "story": "we took turns at the same spot and you showed me a wider version on your phone. blue backpack, short hair. i meant to ask if you wanted company for the next stop",
+    "question": "What were we taking photos of?",
+    "id": "demo-bb-255",
+    "alias": "PassingBy255",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 210,
+    "title": "my deadline got me the book",
+    "story": "We were looking for the only available copy. You let me take it because my assignment was due first gray hoodie, black glasses. would love to thank you properly",
+    "question": "",
+    "id": "demo-bb-974",
+    "alias": "PassingBy974",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 20,
+    "title": "Guy with the green headphones",
+    "story": "we chatted during the delay. green headphones, gray sweatshirt. you told me why you were traveling, but we got separated when everyone boarded. never got your name",
+    "question": "",
+    "id": "demo-bb-206",
+    "alias": "AfterClass206",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 184,
+    "title": "stats aside, what's your name?",
+    "story": "you sat beside me and we complained about our stats assignments. your friend arrived before i asked your name gray t-shirt, blue pen behind your ear. im the girl with the calculator",
+    "question": "",
+    "id": "demo-bb-639",
+    "alias": "AfterClass639",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 200,
+    "title": "got the shop name, not yours",
+    "story": "you were telling me where you got your bag when your friend interrupted. red sweatshirt, hair in a bun. i got the name of the shop but somehow not yours",
+    "question": "",
+    "id": "demo-bb-275",
+    "alias": "OneMoreHello275",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 156,
+    "title": "nearly photobombed you, sorry",
+    "story": "i nearly walked into your picture, then stopped you laughed and thanked me. blue backpack, blonde braid. i kept walking even though wanted to stay and talk",
+    "question": "",
+    "id": "demo-bb-378",
+    "alias": "CoffeeBreak378",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 86,
+    "title": "our usual walk on campus",
+    "story": "i recognized you from another walk here. gray hoodie, red backpack you nodded when you saw me. id like our next hello to last longer than a second",
+    "question": "",
+    "id": "demo-bb-183",
+    "alias": "CoffeeBreak183",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 197,
+    "title": "Girl in the red sweatshirt",
+    "story": "i've seen you here a couple of times. red sweatshirt, small silver earrings you moved your books so i could set my cup down. wanted to ask what you were working on",
+    "question": "",
+    "id": "demo-bb-835",
+    "alias": "AroundHere835",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 201,
+    "title": "i wasnt done explaining",
+    "story": "you were waiting for a friend and asked which camera i was carrying dark curls, green jacket. i was explaining when your friend arrived. would love to finish that conversation",
+    "question": "What did I ask you about?",
+    "id": "demo-bb-562",
+    "alias": "JustSayingHi562",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 93,
+    "title": "Brown hoodie",
+    "story": "you handed my pen back as you passed my seat. brown hoodie, glasses. i was halfway through saying thanks when you moved on. did you see me look back?",
+    "question": "",
+    "id": "demo-bb-507",
+    "alias": "OnMyWay507",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 150,
+    "title": "you only asked for the time",
+    "story": "you asked if i had the time, that was how we started talking We chatted for a moment before you checked the street and rushed away. Brown curls, red backpack. maybe we can talk properly next time.",
+    "question": "",
+    "id": "demo-bb-102",
+    "alias": "JustSayingHi102",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 230,
+    "title": "glad i saved your morning",
+    "story": "All I did was pick up your student card. You smiled and said I'd saved your morning. Gray T-shirt, dark hair. I'm the woman in the blue coat, still wishing we'd talked.",
+    "question": "What did the card holder look like?",
+    "id": "demo-bb-891",
+    "alias": "AfterClass891",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 111,
+    "title": "Woman in the yellow raincoat",
+    "story": "you recognized me before i recognized you and smiled. yellow raincoat, dark ponytail. i remembered afterward that we'd waited beside each other last time. sorry my response was so slow",
+    "question": "",
+    "id": "demo-bb-267",
+    "alias": "PassingBy267",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 22,
+    "title": "thanks for making room",
+    "story": "you moved over so i could get out of the rain. green jacket, brown curls. we talked about how long it might last, then walked off in different directions",
+    "question": "",
+    "id": "demo-bb-803",
+    "alias": "CoffeeBreak803",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 87,
+    "title": "Green jacket",
+    "story": "you asked if you could borrow a charger, i didnt have one but pointed you toward the counter. green jacket, dark curls. wanted to say hi again before you left",
+    "question": "",
+    "id": "demo-bb-373",
+    "alias": "AfterClass373",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 153,
+    "title": "wasnt really looking at my phone",
+    "story": "i overheard the end of your story and laughed. you turned and smiled at me. blue cap, gray hoodie. shouldve said hello instead of pretending to look at my phone",
+    "question": "",
+    "id": "demo-bb-94",
+    "alias": "CoffeeBreak94",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 229,
+    "title": "Guy with the blue backpack",
+    "story": "i made room for you when the other tables filled up. blue backpack, white t-shirt. you smiled when we both closed our notebooks at once. that would've been a good time to say hi",
+    "question": "",
+    "id": "demo-bb-801",
+    "alias": "SmallMoment801",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 154,
+    "title": "Man in the navy sweater",
+    "story": "you were explaining why you'd changed subjects while we walked toward the exit, navy sweater, light brown curls. my turn came sooner than i wanted it to",
+    "question": "",
+    "id": "demo-bb-653",
+    "alias": "AfterClass653",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 158,
+    "title": "comparing the lecture notes",
+    "story": "You recognized my class notes and asked if you could see the page you'd missed, green folder, red sweatshirt. We compared lectures while waiting. i wish i'd asked your name",
+    "question": "Which class were the notes from?",
+    "id": "demo-bb-910",
+    "alias": "OnMyWay910",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 166,
+    "title": "wrong table, right smile",
+    "story": "you put your coffee down in front of me, then realized your friend was at the next table. red sweater, black curls. we laughed. i would've been happy if youd stayed",
+    "question": "",
+    "id": "demo-bb-842",
+    "alias": "OneMoreHello842",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 37,
+    "title": "outside class at Georgetown",
+    "story": "we passed outside class while you were with your friends you looked back as i turned around. brown jacket, dark curls. if you noticed the girl in green, that was me",
+    "question": "",
+    "id": "demo-bb-707",
+    "alias": "SmallMoment707",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 114,
+    "title": "hello instead of sorry?",
+    "story": "We both stepped aside to let the other through. Dark curls, brown hoodie i recognize you from here, but we only managed sorry and a smile. Can we try hello next time?",
+    "question": "",
+    "id": "demo-bb-265",
+    "alias": "OnMyWay265",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 108,
+    "title": "you brought the cable back",
+    "story": "you borrowed my phone cable before class and came back to return it. brown sweater, round glasses. i was busy when you came over, but id have liked to talk more",
+    "question": "",
+    "id": "demo-bb-675",
+    "alias": "CoffeeBreak675",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 112,
+    "title": "your friend's story got me too",
+    "story": "your friend said something that made me laugh too you looked over and grinned. green coat, black bob. would love to be part of the conversation next time",
+    "question": "",
+    "id": "demo-bb-17",
+    "alias": "PassingBy17",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 133,
+    "title": "your coffee, my notebook",
+    "story": "You left your drink beside my notebook while you took your coat off, i asked if you meant to sit there. Gray shirt, brown hair. You laughed and went back to your friend",
+    "question": "",
+    "id": "demo-bb-447",
+    "alias": "AfterClass447",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 52,
+    "title": "we caught each other's eye",
+    "story": "i noticed you while i was out with a friend. striped shirt, black hair, camera in your hand you smiled when we looked at each other. i would've liked to ask about your photos",
+    "question": "",
+    "id": "demo-bb-107",
+    "alias": "AroundHere107",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 190,
+    "title": "same class last semester?",
+    "story": "we passed each other outside and you gave me a nod, navy jacket, short beard. i think we shared a class last semester. would love to find out if i'm right",
+    "question": "",
+    "id": "demo-bb-730",
+    "alias": "SmallMoment730",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 80,
+    "title": "Woman with the blue scarf",
+    "story": "You looked up from your book as i went by and smiled. Blue scarf, short black hair i didnt want to disturb you, but would enjoy talking during a reading break",
+    "question": "",
+    "id": "demo-bb-239",
+    "alias": "AroundHere239",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 39,
+    "title": "Girl in the striped shirt",
+    "story": "you let me have the copy we'd both been looking at. i've finished the chapter i needed. striped shirt, black curls. would love to return the favor and see you again",
+    "question": "Which book were we looking for?",
+    "id": "demo-bb-921",
+    "alias": "JustSayingHi921",
+    "happened": "2026-10-30"
+  },
+  {
+    "venue": 88,
+    "title": "back at La Colombe",
+    "story": "You looked familiar, then smiled like you recognized me too. Gray shirt, green backpack i didnt ask whether we'd met before. if you remember the woman with the blue mug, hi",
+    "question": "",
+    "id": "demo-bb-90",
+    "alias": "OneMoreHello90",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 218,
+    "title": "next time, no phone call",
+    "story": "we keep ending up near each other here burgundy backpack, shaved head. you said a quick hello this time, but i was taking a call. would love to talk without my phone interrupting",
+    "question": "",
+    "id": "demo-bb-207",
+    "alias": "OneMoreHello207",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 79,
+    "title": "waiting at Coffee Mind",
+    "story": "You were waiting with a friend and seemed about to speak when i came past. Gray T-shirt, brown hair i was in a hurry then. Could we try again?",
+    "question": "",
+    "id": "demo-bb-67",
+    "alias": "OneMoreHello67",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 127,
+    "title": "almost collided at the door",
+    "story": "i nearly walked into the door you were opening. we both apologized and laughed short hair, navy sweater. i was distracted then, but i remember you very clearly now",
+    "question": "",
+    "id": "demo-bb-3",
+    "alias": "AroundHere3",
+    "happened": "2026-11-03"
+  },
+  {
+    "venue": 74,
+    "title": "Guy in the gray T-shirt",
+    "story": "We walked a few steps together while i pointed out the turn. Gray T-shirt, blue backpack you thanked me and went on. wanted to come up with one more thing to say",
+    "question": "",
+    "id": "demo-bb-18",
+    "alias": "SmallMoment18",
+    "happened": "2026-11-04"
+  },
+  {
+    "venue": 11,
+    "title": "Woman in the striped sweater",
+    "story": "You asked whether i was waiting for someone. Before i answered properly, your friend called you over blonde hair, striped sweater. For the record, i wasnt",
+    "question": "",
+    "id": "demo-bb-71",
+    "alias": "AfterClass71",
+    "happened": "2026-10-31"
+  },
+  {
+    "venue": 79,
+    "title": "your joke made me laugh",
+    "story": "i couldnt help laughing at what you said at the counter. you turned around and smiled at me. striped shirt, red hair. i nearly followed up outside but lost my nerve",
+    "question": "",
+    "id": "demo-bb-219",
+    "alias": "AfterClass219",
+    "happened": "2026-11-02"
+  },
+  {
+    "venue": 69,
+    "title": "thanks for the little smiley",
+    "story": "you left my pen on my notebook with a small smiley beside your thanks. blonde hair, navy cardigan i looked up to say something but you were already at the door",
+    "question": "",
+    "id": "demo-bb-811",
+    "alias": "SmallMoment811",
+    "happened": "2026-11-01"
+  },
+  {
+    "venue": 119,
+    "title": "Red sweatshirt",
+    "story": "you apologized for taking my page with yours, no problem at all. red sweatshirt, short beard. i was the woman who asked if you were also having trouble with the printer",
+    "question": "",
+    "id": "demo-bb-870",
+    "alias": "OnMyWay870",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 41,
+    "title": "Guy in black",
+    "story": "You had your headphones on and didnt hear me at first, i brought your gym bag over. Black T-shirt, close-cropped hair. You took the headphones off and gave me the nicest smile",
+    "question": "",
+    "id": "demo-bb-683",
+    "alias": "SmallMoment683",
+    "happened": "2026-10-28"
+  },
+  {
+    "venue": 12,
+    "title": "same class, different printouts",
+    "story": "you noticed we were printing notes for the same class. we talked about the upcoming assignment. red glasses, brown cardigan. i left before asking which session you attended",
+    "question": "Which class were the notes from?",
+    "id": "demo-bb-957",
+    "alias": "AfterClass957",
+    "happened": "2026-10-29"
+  },
+  {
+    "venue": 152,
+    "title": "Man with the blue scarf",
+    "story": "You looked over while putting your things away and smiled. Blue scarf, round glasses. I was alone too. I wish I'd asked if you had time for another drink.",
+    "question": "",
+    "id": "demo-bb-99",
+    "alias": "AfterClass99",
+    "happened": "2026-11-03"
+  }
+]
